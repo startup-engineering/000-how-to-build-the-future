@@ -6,7 +6,7 @@ This is the starting place for building a startup. Think of these notes as a phi
 
 ## Outline
 
-2. [Challenging the Future](01-challenging-the-future.md)
+1. [Challenging the Future](01-challenging-the-future.md)
 2. [Party Like It's 1999](02-party-like-its-1999.md)
 2. [Value Systems](03-value-systems.md)
 2. [Last Mover Advantage](04-last-mover-advantage.md)
