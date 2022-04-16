@@ -10,7 +10,7 @@ This is the starting place for building a startup. Think of these notes as a phi
 2. [Party Like It's 1999](02-party-like-its-1999.md)
 2. [Value Systems](03-value-systems.md)
 2. [Last Mover Advantage](04-last-mover-advantage.md)
-2. [mMechanics of Mafia](05-mechanics-of-mafia.md)
+2. [Mechanics of Mafia](05-mechanics-of-mafia.md)
 2. [Thiel's Law](06-thiels-law.md)
 2. [Follow the Money](07-follow-the-money.md)
 2. [The Pitch](08-the-pitch.md)
