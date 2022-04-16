@@ -30,7 +30,7 @@ _Villemard's 1910 prediction of what schools would be like in 2000. Lessons woul
 
 Just a few decades ago, people were predicting chemical dinners and heating houses with radium. And being wrong about the future is nothing new. In 1895, Lord Kelvin declared that “heavier than air flying machines are impossible.” U.S. Patent Commissioner Charles H. Duell was confident in 1899 that “everything that can be invented has been invented.” All of that, of course, was spectacularly wrong.
 
-Sometimes bad predictions were just too optimistic. In the ‘60s, people were thinking that everything would soon be nuclear powered. We would have flying cities. Why things haven't things worked out like that is interesting question to think about. But even more interesting are cases where people _are _right about the future and just wrong on timing. Lots of times people get the call right, but the future takes longer to arrive than they thought.
+Sometimes bad predictions were just too optimistic. In the ‘60s, people were thinking that everything would soon be nuclear powered. We would have flying cities. Why things haven't things worked out like that is interesting question to think about. But even more interesting are cases where people _are_ right about the future and just wrong on timing. Lots of times people get the call right, but the future takes longer to arrive than they thought.
 
 ![][9] 
 
@@ -66,7 +66,7 @@ Now the indirect proof is complete: all that's left is working with computers. O
 
 **Peter Thiel:**  Marc, you've been involved in the tech industry for two decades. How did you think about future in 1992? In 2002? Now? 
 
-**Marc Andreessen:**  My colleagues and I built Mosaic in 1992. It's hard to overstate how contrarian a bet that was at the time. Believing in the whole idea of the Internet was pretty contrarian back then. At the time, the dominant metaphor was the information superhighway. People saw advantages to more information. At some point we got 500 TV channels instead of 3. But much better than _more _TV was _interactive_ TV came. That was supposed to be the next big thing. Dominant leaders in the media industry were completely bought in to ITV. Bill Gates, Larry Ellison—everybody thought interactive was the future. Big companies would (continue to) rule. Oracle would make the interactive TV software. The information superhighway, by contrast, would be passive. It wouldn't be all that different from traditional old media. In 1992, Internet was quirky, obscure, and academic, just as it had been since 1968.
+**Marc Andreessen:**  My colleagues and I built Mosaic in 1992. It's hard to overstate how contrarian a bet that was at the time. Believing in the whole idea of the Internet was pretty contrarian back then. At the time, the dominant metaphor was the information superhighway. People saw advantages to more information. At some point we got 500 TV channels instead of 3. But much better than _more_ TV was _interactive_ TV came. That was supposed to be the next big thing. Dominant leaders in the media industry were completely bought in to ITV. Bill Gates, Larry Ellison—everybody thought interactive was the future. Big companies would (continue to) rule. Oracle would make the interactive TV software. The information superhighway, by contrast, would be passive. It wouldn't be all that different from traditional old media. In 1992, Internet was quirky, obscure, and academic, just as it had been since 1968.
 
 To be fair, the future still hadn't quite arrived by ‘92. Much of the huge skepticism about the Internet seemed justified. You all but needed a CS degree in order to log on. It could be pretty slow. But clinging to skepticism in the face of new developments was less understandable. Larry Ellison said in 1995 that the Internet would go nowhere because it'd be too slow. This was puzzling, since you could theoretically run Internet on the same wire that people already had coming into their houses. Cable modems turned out to work pretty well. Really, the causes of peoples' anti-Internet bias back then were the same reasons people fear the Internet today; it's unregulated, decentralized, and anonymous. It's like the Wild West. But people don't like the Wild West. It makes people feel uncomfortable. So to say in 1992 that Internet was going to be _the thing_ was very contrarian.
 
@@ -122,7 +122,7 @@ It's still a high-pressure move. They are running the gauntlet. The jury is stil
 
 Peter Thiel plays real hedge fund. Andreessen Horowitz plays fake hedge fund. And one if it's fake hedge fund strategies is short retail, go long e-commerce. 
 
-**Peter Thiel:  **What new perspectives do you have as VC that are different from your perspectives as entrepreneur? Have you gained any new insights from the other side of the table?
+**Peter Thiel:** What new perspectives do you have as VC that are different from your perspectives as entrepreneur? Have you gained any new insights from the other side of the table?
 
 **Marc Andreessen:**  The big, almost philosophical difference goes back to the timing issue. For entrepreneurs, timing is a huge risk. You have to innovate at the right time. You can't be too early. This is _really_ dangerous because you essentially make a one-time bet. It's rare are to start the same company five years later if you try it once and were wrong on timing.  Jonathan Abrams did Friendster but not Facebook.
 
@@ -130,9 +130,9 @@ Things are different with venture capital. To stay in business for 20 years or m
 
 **Peter Thiel:** When people invest and things don't work out, the right thing to do is course correct. And when people don't invest and something works, they remain anchored to their original view and tend to be very cynical.
 
-**Marc Andreessen:**  Exactly. The more successful missed investments get, the more expert we become on what's wrong with them. (Dammit square!  J )
+**Marc Andreessen:**  Exactly. The more successful missed investments get, the more expert we become on what's wrong with them. (Dammit Square! J)
 
-But seriously—if you think you can execute on an idea that someone tried 5-10 years ago and failed, good VCs will be open to it. You just have to be able to show that now is the time.
+But seriously – if you think you can execute on an idea that someone tried 5-10 years ago and failed, good VCs will be open to it. You just have to be able to show that now is the time.
 
 **Peter Thiel:**  What's the one thing that younger entrepreneurs don't know that they should?
 
@@ -144,8 +144,6 @@ But seriously—if you think you can execute on an idea that someone tried 5-10 
 
 **Peter Thiel:**  It may also be time to rethink complex sales. People have been scarred from the ‘90s experience, where businesses predicated on complex sales failed. It was very hard to get people to do business development deals in the early 2000s. But doing these deals can be very advantageous. Google did a phenomenal BD deal with Yahoo. People don't typically recognize how great it was for Google. Google doesn't' like to talk about it because it only wants to talk about it's engineering. Yahoo doesn't want to talk about it because it's embarrassing.
 
-  
-
 **Question from audience:**  What are some pitfalls to avoid in thinking about the future?
 
 **Peter Thiel:**  You can go wrong in a few ways. One is that the future is too far away, so you might be right on substance but you'll be wrong on timing. The other is that the future is here, but everyone else is already doing it.
@@ -154,15 +152,11 @@ It's like surfing. The goal is to catch a big wave. If you think a big wave is c
 
 But you can't just wait to be sure there's a wave before you start paddling. You'll miss it entirely. You have to paddle early, and then let the wave catch you. The question is, how do you figure out when the next big wave is likely to come?
 
-It's a hard question. At the margins, it's better err on the side of paddling where there's no wave than paddling too late and missing a good wave. Trying to start the next great social networking company is current wave thinking. You can paddle hard, but you've missed it. Social networking is not the next wave. So the bias should be to err toward the future. Then again, the bigger bias should be to not err at all.
-
- 
+It's a hard question. At the margins, it's better err on the side of paddling where there's no wave than paddling too late and missing a good wave. Trying to start the next great social networking company is current wave thinking. You can paddle hard, but you've missed it. Social networking is not the next wave. So the bias should be to err toward the future. Then again, the bigger bias should be to not err at all.  
 
 **Question from audience:**  Is it big wave? Or do waves come industry by industry?
 
 **Marc Andreessen:**  Industry by industry. Some industries like finance, law, and health have oligopoly structures that are often intertwined with government. Banks complain about regulation, but are very often protected by it. Citibank's core competency could be said to be political savvy and navigating through bureaucracy. So there are all sorts of industries with complex regulatory hurdles. It's fun to see what's tipping and what's not. There are huge opportunities in law, for example. You may think those are ripe now, and they may well be. But maybe they are decades out. In VC, you literally never know when some 22 year-old is going to prove everybody wrong.
-
- 
 
 **Question from audience:** How do patents relate to the software-eats-the-world phenomenon?
 
@@ -174,8 +168,6 @@ It's a hard question. At the margins, it's better err on the side of paddling wh
 
 **Peter Thiel:** In some sense, it may be good to have patent problems. If you have to have problems, these are the kind you want to have. It means that you've done something valuable along the way. No one would be coming after you if you didn't have good technology. So it's a problem you want to have, even if you don't.
 
- 
-
 **Question from audience:** Has the critical mass of Internet users been reached? Is it harder to be too early now?
 
 **Marc Andreessen:**  For a straight Internet idea, yes. It's less easy to be too early, which is good. Look at Golfballs.com. Everybody who plays golf is now online. That is a huge change from the ‘90s when far fewer people were dialing up. 
@@ -186,8 +178,6 @@ Things like mobile are trickier. Some say that smartphones have tipped. We're cu
 
 **Marc Andreessen:**  Just recently, Apple blocked any iOS applications from using Dropbox. The rationale was that allowing apps to interact with Dropbox encourages people not to buy stuff through the App Store. That doesn't seem like a great argument. But it's like fighting city hall. Even a big important company like Dropbox can get stopped dead in its tracks by Apple.
 
- 
-
 **Question from audience:**  What have you learned about boards from sitting on boards of successful companies?
 
 **Marc Andreessen:**  Generally, you must try to build a board that can help you. Avoid putting crazy people on your board. It's like getting married. Most people end up in bad marriages. Board people can be really bad. When things go wrong, the bias is to do _something_. But that something is often worse than the problem. Bad board members frequently don't see that.
@@ -197,8 +187,6 @@ Things like mobile are trickier. Some say that smartphones have tipped. We're cu
 **Marc Andreessen:**  I've never seen a contentious board vote. I've seen every other thing go wrong. But never a contentious vote. Problems get dealt with. They either kill the company, or you figure it out in another way.
 
 There is probably too much in the air about optimal legal terms and process. Not enough attention is paid to the people. Startups are like sausage factories. People love eating sausage. But no one wants to watch the sausage get made. Even the seemingly glorious startups only seem that way. They've had crisis after crises too. Things go horribly wrong. You fight your way through it. What matters more: what processes you follow? Or who is with you in the bunker? Entrepreneurs don't think about this enough. They don't vet their VCs enough.
-
- 
 
 **Question from audience:**  With businesses like Netflix, it seems like the key thing is customer psychology and behavior, not some technical achievement. But you said you like companies with software at their core. Is there a disconnect?
 
@@ -214,19 +202,15 @@ Salespeople can be very good at optimizing a company over a 2-4 year period. The
 
 There are a bunch of exceptions. Meg Whitman gets criticized for late eBay, but early on, she built it up and did a fantastic job. John Chambers clearly did a good job building Cisco, even if things got complicated later on. Jeff Bezos was a hedge fund guy. Good leaders come from all over the place.
 
-Even designers are becoming great CEOs—just look at Airbnb. They've got the whole company thinking in terms of design. Design is becoming increasingly important. Apple's success doesn't come from their hardware. It comes from OSX and iOS. Design is layered on top of that. A lot of the talk about the beautiful hardware is just the press not getting it. The best designers are the software-intensive ones, who understand it at the deep level. It's not just about surface aesthetics.
+Even designers are becoming great CEOs—just look at Airbnb. They've got the whole company thinking in terms of design. Design is becoming increasingly important. Apple's success doesn't come from their hardware. It comes from OSX and iOS. Design is layered on top of that. A lot of the talk about the beautiful hardware is just the press not getting it. The best designers are the software-intensive ones, who understand it at the deep level. It's not just about surface aesthetics.  
 
-  
-
-**Question from audience: ** The web browser came out of universities. 10 years later Google came out of Stanford. Do you look at university research departments while searching for great future companies? 
+**Question from audience:** The web browser came out of universities. 10 years later Google came out of Stanford. Do you look at university research departments while searching for great future companies? 
 
 **Marc Andreessen:**  Sure. A lot of stuff we've invested in was developed in research labs 5-10 years ago. Looking at the Stanford and MIT research labs is a great way of assessing what kinds of technologies might become products in the next couple of years.
 
 Synthetic biology is one example. That might be the next big thing. It's basically biology—creating new biological constructs with code. This freaks people out. It's very scary stuff. But it actually seems to work, and it could be huge.
 
- 
-
-**Question from audience: ** if a certain background isn't required, what makes for a good CEO?
+**Question from audience:** if a certain background isn't required, what makes for a good CEO?
 
 **Marc Andreessen:**  At AH we think that being CEO is a learnable skill. This is controversial in the VC world. Most VCs seem to think that CEOs come prepackaged in full form, shrink wrapped from the CEO mill. They speak of “world class” CEOs, who usually have uniquely great hair. We shouldn't be too glib about this; many very successful VCs have the “don't' screw around with CEO job” mentality, and maybe they're right. Their success sort of speaks for itself. But the critique is that that with the “world class” CEO model, you miss out on Microsoft, Google, and Facebook. The CEOs of those companies, of course, turned out to be excellent. But they were also the product people who built the companies. It's fair to say that the most important companies are founded and run by people who haven't been CEO before. They learn on the job. This is scary for VCs. It's riskier. But the payoff can be much greater. 
 
@@ -234,13 +218,9 @@ The question is simple: does this person want to learn how to be a good CEO? Som
 
 But the Valley is infected by the Dilbert view; everybody thinks management is a bunch of idiots, and that engineers must save the day by doing the right things on the side. That's not right. Management is extremely important. We are looking for the best outcomes on the power law curve. You have to look at what's worked well and try to reverse engineer it. Great management and a great product person running the company is characteristic of the very best companies.
 
- 
-
 **Question from audience:**  What's more fun: found company or being a VC?
 
 **Marc Andreessen:**  They are pretty different. Generally founders would probably dislike being VCs and vice versa. The typical founder/CEO is a control freak. He would hate VC because VCs can't give orders. Instead they have to exercise power through influence. But VCs might not enjoy being founders. VCs get the luxury of having opinions without having to execute on them. Executing on them can be really hard and unpleasant. So different people may prefer one or the other. I like them both, but that may not be all that common.
-
-  
 
 **Question from audience:**  What would you advise entrepreneurial students to do: found a company with a friend from school? Or go work at a 10-person startup?
 

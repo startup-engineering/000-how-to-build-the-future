@@ -11,13 +11,14 @@ But most of us don't spend much time thinking about why war happens. When is it 
 It often starts as theater. People threaten each other. Governments point missiles at each other. Nations become obsessed with copying one another. We end up with things like the space race. There was underlying geopolitical tension when Fischer faced off with Spassky in the Match of the Century in 1972. Then there was the Miracle on Ice where the U.S. hockey team defeated the Soviets in 1980. These were thrilling and intense events. But they were theater. Theater never seems all that dangerous at first. It seems cool. In a sense, the entire Cold War was essentially theater—instead of fighting and battles, there was just an incredible state of tension, rivalry, and competition.
 
 There are ways in which competition and war are powerfully motivational. The space race was incredibly intense. People worked extremely hard because they were competing against Russians on other side. Things get so intense that it becomes quite awkward when the rivalry ends. The space race ended in 1975 with the Apollo-Soyuz Test Project, where the U.S. and Soviet Union ran a joint space flight. No one was quite sure how it would play out. Was everyone just going to become friends all of a sudden?  
-><span>
 
 So war can be a very powerful, motivational force. It pushes people to try and improve themselves. It's like wimpy kid who orders a Charles Atlas strength-training book, bulks up, and pummels the bully that's been tormenting him. 
 
 **B. Psychology** 
 
-But the Charles Atlas example illustrates more than just the motivational aspect of war. When people are myopically focused on fighting, they lose sight of everything else. They begin to look very much like their enemy. The skinny kid bulks up. He becomes the bully, which of course is exactly what he had always hated. A working theory is thus that you must choose your enemies well, since you'll soon become just like them.![][8]
+But the Charles Atlas example illustrates more than just the motivational aspect of war. When people are myopically focused on fighting, they lose sight of everything else. They begin to look very much like their enemy. The skinny kid bulks up. He becomes the bully, which of course is exactly what he had always hated. A working theory is thus that you must choose your enemies well, since you'll soon become just like them.
+
+![][8]
 
    [8]: http://media.tumblr.com/tumblr_m46t7elhpZ1qbb0b4.png
 
@@ -106,7 +107,7 @@ PayPal had similar experience. Confinity released the PayPal product in late 199
 
 Each company's top brass was scared. In February 2000 we met on neutral ground at a restaurant on University Avenue located equidistant from their respective offices. We agreed to a 50-50 merger in early March. We combined, raised a bunch of money before the crash, and had years to build the business.
 
-**E.  If You Can, Run Away. If Not, Fight and Win. **
+**E.  If You Can, Run Away. If Not, Fight and Win.**
 
 If you do have to fight a war, you must use overwhelming force and end it quickly. If you take seriously the idea that you must choose your enemies well since fighting them will make you like them, you want wars to be short. Let that process go on too long and you'll lose yourself in it. So your strategy must be shock and awe—_real _shock and awe, not the fake kind that gets you a 10-year war. You have to win very quickly. But since very often it's not possible to ensure a quick victory, your primary job is to figure out ways not to have war happen at all.
 
@@ -202,8 +203,6 @@ Google has tons of smart people. They can, in all likelihood, do exactly what yo
 
 **Reid Hoffman:**  You can't systematize this. It's a problem that requires human intelligence and judgment. You consider the important factors. You make a bet. Sometimes you're right, sometimes you're wrong. If you think your strategy will always be right, you've got it wrong.
 
-  
-
 **Question from audience:**  Can you give some examples on how one can successfully get away from competition?
 
 **Peter Thiel:**  PayPal had a feature for feature competition with X.com that lasted intense 8 weeks. The best way to stop or avoid the war was to merge. The hard part was deescalating things post-merger. It was hard to immediately shift to being great friends afterwards. There is always a way in which things get remembered much more positively when everything works out in long run. Conversely, rivalries tend to get exaggerated ex-post when things don't go so well.
@@ -242,7 +241,7 @@ Reid, final question. What advice would you give young entrepreneurs?
 
 **Reid Hoffman:**  You can learn a lot from companies that succeed. Companies have benefited greatly from Facebook's Open Graph. Ignoring that instead of learning it, for instance, could be catastrophic for you, depending on what you're trying to do. But of course learning everything before you do anything is bad too.
 
-The network is key. This is a large part of how you learn new things. Connect with smart people. Talk. What have you seen in last couple of months? What do you know? It's not a go-and-read-everything strategy. You'd die before you could pull that off. Just exchange ideas with the smart people in your network. Not constantly, of course—you need to do work too—but in a focused way. Take what you learn and update your strategy if it's warranted. And then keep executing on it.
+The network is key. This is a large part of how you learn new things. Connect with smart people. Talk. What have you seen in last couple of months? What do you know? It's not a go-and-read-everything strategy. You'd die before you could pull that off. Just exchange ideas with the smart people in your network. Not constantly, of course—you need to do work too — but in a focused way. Take what you learn and update your strategy if it's warranted. And then keep executing on it.
 
 ---
 

@@ -1,6 +1,6 @@
 # If You Build It, Will They Come?
 
- **I. Definitions** 
+**I. Definitions** 
 
 Distribution is something of a catchall term. It essentially refers to how you get a product out to consumers. More generally, it can refer to how you spread the message about your company. Compared to other components that people generally recognize are important, distribution gets the short shift. People understand that team, structure, and culture are important. Much energy is spent thinking about how to improve these pieces. Even things that are less widely understood—such as the idea that avoiding competition is usually better than competing—are discoverable and are often implemented in practice.
 
@@ -34,7 +34,7 @@ Things are fundamentally different if you're selling a larger package of goods o
 
 At the other extreme, you're selling to big businesses or governments. Maybe your sales are $1m or $50m each. As the unit value of each sale goes up, there is necessarily a shift towards more people-intensive processes. Your approach to these kinds of sales must be to utilize salespeople and business development people, who are basically just fancy salespeople who do three martini lunches and work on complex deals.
 
-**III. The Strangeness of Distribution   **
+**III. The Strangeness of Distribution**
 
 **A. Fact versus Sales Pitch**
 
@@ -50,7 +50,7 @@ _Comparisons to price or how fast computers work? No. Something strange is going
 
 The U.S. sales industry is even bigger than advertising. Some 3.2 million people are in sales. It's a $450bn industry. And people can get paid pretty well. A software engineer at Oracle with 4-6 years experiences gets a $105k salary and an $8k bonus. But a sales manager with 4-6 years experiences gets $112k and a $103k bonus. The situation is very much the same at Google, which claims to be extremely engineering driven; at a $96k base, $86k in commissions, and a $40k bonus, Google salespeople earn quite a bit more than their engineering counterparts. This doesn't mean everyone should go into sales. But people who are good at it do quite well. 
 
-_Self-referential version of sales question.   _
+_Self-referential version of sales question._
 
 **B. Salesman as Actor**
 
@@ -76,7 +76,7 @@ To think through how to come to an organizing principle for a company's distribu
 
 Consider the quadrants:
 
-  *  Product sells itself, no sales effort. _Does not exist_.
+  * Product sells itself, no sales effort. _Does not exist_.
   * Product needs selling, no sales effort. _You have no revenue_.
   * Product needs selling, strong sales piece. _This is a sales-driven company_.
   * Product sells itself, strong sales piece. _This is ideal_. 

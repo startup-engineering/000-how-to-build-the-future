@@ -173,27 +173,21 @@ Remember that pitches go both ways. Companies are staying private longer and lon
 
 Once you close a deal, get a press release out. Quote the VCs. Put them on your website. Get your logo on their website. And start thinking immediately about who your next VC will be in 18 months.
 
- 
-
 **VI. Questions from the Audience**
 
 **Q:** When you're pitching, should you focus on your initial product or your grand vision?
 
 **A:** Founders Fund likes to start with the big vision. But many people are more narrowly focused and may well want to hear about the product first.
 
- 
+**Q:** How can one judge a VC without a lot of background in startups or VC?
 
-**Q:  **How can one judge a VC without a lot of background in startups or VC?
-
-**A:**   Go with your gut. Evaluate their intellectual content, if any.  Do a gut check. If you see some VC firm plop Facebook's logo on their front page when they got in at a $25B valuation and generic pap about investing in the future, move on. That's dishonest on their part. But if you come across someone like Brad Feld, who obviously knows what he's talking about, and who has made some pretty interesting deals, you can feel more at ease.
-
- 
+**A:** Go with your gut. Evaluate their intellectual content, if any.  Do a gut check. If you see some VC firm plop Facebook's logo on their front page when they got in at a $25B valuation and generic pap about investing in the future, move on. That's dishonest on their part. But if you come across someone like Brad Feld, who obviously knows what he's talking about, and who has made some pretty interesting deals, you can feel more at ease.
 
 **Q:** Which VCs do you and don't you like?
 
-**A:** The usual suspects.  Sometimes you have little choice. If you're trying to raise $300 million at a $6bn valuation, there are only so many places you can go.
+**A:** The usual suspects. Sometimes you have little choice. If you're trying to raise $300 million at a $6bn valuation, there are only so many places you can go.
 
-The truth is that most VCs are not very good at all. The objective verification of this is that the bottom 80% of industry hasn't made any money in the last 10 years.  The compensation is that the ones that do are really very competent.
+The truth is that most VCs are not very good at all. The objective verification of this is that the bottom 80% of industry hasn't made any money in the last 10 years. The compensation is that the ones that do are really very competent.
 
 **Q:**  When do you discuss important terms in the pitch process?
 

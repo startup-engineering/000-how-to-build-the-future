@@ -1,6 +1,6 @@
 # Secrets
 
-**I.  Secrets**
+**I. Secrets**
 
 Back in class one, we identified a very key question that you should continually ask yourself: what important truth do very few people agree with you on? To a first approximation, the correct answer is going to be a secret. Secrets are unpopular or unconventional truths. So if you come up with a good answer, that's your secret.
 
@@ -22,15 +22,15 @@ The power law secret operates similarly. In one sense it's a secret about financ
 
 The distribution secret also has two sides to it. Distribution is much more important than people think. That makes it a business secret. But it's a human secret too, since the people involved in distribution work very hard to hide what's going on. Salespeople do best when people do not know they're dealing with salespeople.
 
-**II.  The Next Secret**
+**II. The Next Secret**
 
 Probably the biggest secret—bigger than monopoly/competition, power law, or distribution—is that there are many important secrets left. This used to be a convention forty or fifty years ago. Everyone believed that there was much more left to do. But generally speaking, we no longer believe that. It's become a secret again.
 
 Consider the original question for a moment—what important truth do people not agree with you on? It seems like an easy question. That is, until you try to answer it. It turns out that it's really tough. In fact, when people actually think about it for a bit, they very often conclude that it's impossible. They start at one extreme and then just move all the way to the other.
 
-But that is too big a move. That answers do not come easily does not mean that they don't exist. There _are _good answers to the question. Secrets exist. And finding them is neither easy nor impossible—just hard.
+But that is too big a move. That answers do not come easily does not mean that they don't exist. There _are_ good answers to the question. Secrets exist. And finding them is neither easy nor impossible—just hard.
 
-**III.  The Case Against Secrets**
+**III. The Case Against Secrets**
 
 The common view is that there are no secrets left. It's a plausible view. If it's wrong, it's not obviously wrong. To evaluate it, we must first understand why people don't believe in secrets anymore.
 
@@ -96,11 +96,11 @@ Tom Perkins believed in secrets. Hard but solvable problems exist, and we should
 
 **V.  The Case For Secrets**
 
-Of course, a case against a case against something isn't a case _for _that thing. If secrets exist, there should be affirmative argument for why. So why should we think that there are still secrets?
+Of course, a case against a case against something isn't a case _for_ that thing. If secrets exist, there should be affirmative argument for why. So why should we think that there are still secrets?
 
 That difficult problems do get solved is evidence that secrets exist. It's not always straightforward to tell whether a given problem is merely hard or actually impossible. But the people who actually solve hard problems are people who believe in secrets. If you believe something is hard, you might still think you can do it. You'll try things, and maybe you'll succeed. But if you think something is impossible, you won't even try.
 
-Fermat's last theorem is a good example. It states that no three positive integers _a_,_ b_, and_ c _can satisfy the equation _an_ + _bn_ = _cn_ for any _n _greater than two. Mathematician Andrew Wiles started working on it in 1986. He managed to prove it in 1995. No one would ever succeed in doing these incredibly hard things if they didn't think that it was possible. In some sense you can't have meaningful progress if you don't think that there are solvable secrets out there.
+Fermat's last theorem is a good example. It states that no three positive integers _a_, _b_, and _c_ can satisfy the equation _an_ + _bn_ = _cn_ for any _n _greater than two. Mathematician Andrew Wiles started working on it in 1986. He managed to prove it in 1995. No one would ever succeed in doing these incredibly hard things if they didn't think that it was possible. In some sense you can't have meaningful progress if you don't think that there are solvable secrets out there.
 
 The story of web 2.0 and the information age has been the story that, on some level, many small secrets can add up and change the world. It's easy to make fun of things like Twitter. You're limited to 140 characters. No individual tweet is particularly important. Most are probably kind of useless. But in the aggregate, the platform has proven quite powerful. Social media has, the story goes, played a non-trivial role in great political transformation and even governmental overthrow. The secret force behind this web 2.0 empowerment is the fact that there are far more secrets that people think. If things are very different in the increasingly transparent world, it just means that they were covered up before. To the extent that things are not transparent, they are secretive. And all these small secrets add up to something very big indeed.
 

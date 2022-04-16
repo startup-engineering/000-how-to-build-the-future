@@ -190,7 +190,7 @@ The human genome will never become obsolete. Mobile/local/social? It's hard to s
 Ultimately you simply have to care about what you're doing. Another dating app really doesn't matter. It's hard to bleed/sweat/cry for. Meaningfulness is a big part of why people should think differently. And we think genomics is really meaningful.
 
 **Brian Frezza:** Elon Musk is a master recruiter. The narrative is stark and simple:   
-> “We don't pay as well as Google. But this is the most exiting project you can work on in your life.” You want to attract the people who find that narrative attractive. People can always try to find a lottery ticket of a startup. But the satisfaction of creating a tech revolution is much bigger than what comes from just chasing dollars.<span>
+> “We don't pay as well as Google. But this is the most exiting project you can work on in your life.” You want to attract the people who find that narrative attractive. People can always try to find a lottery ticket of a startup. But the satisfaction of creating a tech revolution is much bigger than what comes from just chasing dollars.
 
 **Brian Slingerland:** One reason that CS people may be ignoring biotech is that they think that they'll be relegated to supporting roles. But that's far from true at many biotech companies. CS people are at the very core of what we do at Stem CentRx. So if CS people have an interest in curing cancer or things like that, it's certainly something they should think about. Have I mentioned that we're hiring?
 
@@ -198,29 +198,25 @@ Ultimately you simply have to care about what you're doing. Another dating app r
 
 Being opaque can be so tiring. The standard wisdom in the VC world is: “If you want money, ask for advice. If you want advice, ask for money.” That game is exhausting. Sometimes it can be refreshing to hear someone say, “I really just want money.”
 
- 
+**Question from the audience:** [unintelligible]
 
-**Question from the audience: **[unintelligible]
-
-**Peter Thiel: **I think this is basically just the regulatory question. So talk about regulatory risks and whatnot.
+**Peter Thiel:** I think this is basically just the regulatory question. So talk about regulatory risks and whatnot.
 
 **Brian Slingerland:** The regulatory system is a necessary step at this point. There is very little upside for the FDA to approve drugs faster. And they get in lots of trouble if they approve things too quickly and a trial goes wrong. There is a lot of talk about doing trials in China or India right now. These expedited processes are certainly interesting. Perhaps people should think about them more. And how the FDA responds will be interesting as well.
 
 **Peter Thiel:** It is very odd that the FDA has a bottleneck on _global_ drug development. There has to be some tipping point beyond which the U.S. no longer gets to dictate what drugs are developed in the entire world. Past that inflection point, the U.S. may have to compete with China on how quickly drugs can be developed. That could be a huge paradigm shift. So while things look pretty bad now, the future may be quite promising. SpaceX was very heavily regulated at first, but persevered and got through it. And the aero regulations have eased up in the last decade. So the sheer unfriendliness of the baseline could be a great opportunity.
 
-**Question from the audience: **When you disclose your secret to prospective hires, do they try to use that knowledge as leverage to hold you up and negotiate more?
+**Question from the audience:** When you disclose your secret to prospective hires, do they try to use that knowledge as leverage to hold you up and negotiate more?
 
 **Brian Frezza:** It hasn't been a problem at all. VCs don't sign NDAs, but job candidates will. And it would take years for anyone we talk with to replicate our technology on their own. 
 
-**Question from the audience: **What role does HIPPA play in tech innovation?
+**Question from the audience:** What role does HIPPA play in tech innovation?
 
 **Balaji Srinivasan:** HIPAA could be seen as tech problem. How can we follow such and such standards, etc.
 
 But it's also an interesting genomics problem. A person's genome provides a great deal of information about their relatives. On one hand, this data is private medical data. On the other hand, it's inherently statistical and requires aggregation to do anything very useful with it. So the trick is to figure out how to do private aggregations. To get value out of your genome, you simply must allow some computation on it. The challenge is catalyzing this very important social shift toward becoming okay with that while preserving strong privacy controls. 
 
- 
-
-**Question from the audience: **Unlike the web, where you can get feedback in minutes, how do you know if you're on the right track in computational biotech? 
+**Question from the audience:** Unlike the web, where you can get feedback in minutes, how do you know if you're on the right track in computational biotech? 
 
 **Brian Frezza:** We use physical models and actual validation experiments. We don't just use statistical approaches. But our processes are internal. We don't go outside and seek external validation. Just like Instagram doesn't get outside people to come in and appraise its code base. You develop a plan and execute it internally. Sometimes you have a multi-year cycle to get data back. You just work as efficiently as possible to shorten cycle times.
 
@@ -228,21 +224,17 @@ But it's also an interesting genomics problem. A person's genome provides a grea
 
 **Brian Frezza:** That depends very much on what you're doing. Genentech was founded the same year as Apple was, in 1976. Building a platform and building infrastructure take time. There can be lots of overhead. Ancillary things can take longer than a single product lifecycle to accumulate.
 
- 
-
-**Question from the audience: **How does biotech VC compare to regular VC?
+**Question from the audience:** How does biotech VC compare to regular VC?
 
 **Brian Slingerland:** We never did the classic venture capital route because VC is broken with respect biotech. Biotech VCs have all lost money. They usually have time horizons that are far too short. VCs that say they want biotech tend to really want products brought to market extremely quickly.
 
 **Brian Frezza:** “Integrated drug platform” is an ominous phrase for VCs. More biotech VCs are focused on globalization than on real technical innovation. VCs typically found a company around a single compound and then pour a bunch of money into it to push it through the capital-intensive trial process. Most VCs not interested in multi-compound companies doing serious pre-clinical research.
 
- 
-
-**Question from the audience: **How useful are end-stage trials in trying to figure out how to cure cancer? Don't you get inaccurate or just different genome data from terminal patients?
+**Question from the audience:** How useful are end-stage trials in trying to figure out how to cure cancer? Don't you get inaccurate or just different genome data from terminal patients?
 
 **Brian Slingerland:** Not being able to trial on earlier stage people is always a challenge. But our technology it is designed to apply to patients at all stages. All I can say is that our approach is stage agnostic for a variety of technical reasons. But generally speaking yours is a valid concern. That's why traditional drugs that show initial progress often fizzle out in extended trials.
 
-**Question from the audience: **What were some of your early struggles or challenges?
+**Question from the audience:** What were some of your early struggles or challenges?
 
 **Brian Frezza:** The amount of time it took to set up a lab was shockingly large. 100% of our time went into acquiring equipment, negotiating price, dealing with initialization failures, etc. We greatly underestimated the time required to get up and running because we were coming out of existing, well-supplied labs. It basically takes a whole year to get up and running. There's just a huge difference from the computer/Internet tech world.
 

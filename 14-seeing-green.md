@@ -143,7 +143,12 @@ Investment in cleantech accelerated massively through 2010. It has come down a b
 
 In 2007 venture capitalist John Doerr gave a TED talk about climate change and alternative energy investment: 
 
-(16 minutes later…)
+[Watch Salvation and Profit in Greentech TED Talk][121]
+
+[120]: https://www.ted.com/talks/john_doerr_salvation_and_profit_in_greentech
+[121]: https://www.ted.com/talks/john_doerr_salvation_and_profit_in_greentech
+
+(16 minutes later...)
 
 The main idea was that we must make investing in cleantech make economic sense, so that the right outcomes are the profitable and thus the likely ones. Doerr obviously became very emotional. Certainly we can understand why he wants to look forward to the conversation he'll have with his daughter 20 years from now. If you're cynical you can dismiss this as a sob story. But this feeling that something must be done has certainly pushed people very hard to try to make cleantech work. Many of the investment dollars poured into cleantech weren't simply seeking good returns, but were also driven by various environmental and social factors.
 
@@ -192,21 +197,23 @@ Some people understand this, perhaps too well. So they try and tell stories abou
 
 But is the U.S. solar energy market the right market? Or is the relevant market the _global_ solar market? Global solar energy production is 18 gigawatts. If you claim to be “the global solar energy provider,” all of a sudden you're a small fish indeed—less than 1% of the market.
 
-      ![][25]
+![][25]
 
-   [25]: http://media.tumblr.com/tumblr_m4mgtzcXYa1qbb0b4.png
+  [25]: http://media.tumblr.com/tumblr_m4mgtzcXYa1qbb0b4.png
 
 We can take this even further. What if what we should be thinking about is cleantech in general, not just global solar? Global cleantech production is 420 GW.  You just got a lot smaller. And then at 15,000 GW of global power generation generally, you're just a dot in the ocean.
 
 ![][26]
 
-   [26]: http://media.tumblr.com/tumblr_m4meeuNVOo1qbb0b4.jpg
+  [26]: http://media.tumblr.com/tumblr_m4meeuNVOo1qbb0b4.jpg
 
 So some cleantech companies rhetorically shrank their market to give the impression that they could easily dominate it. Many others made the opposite mistake and just talked about trillion dollar markets in their pitches. That is probably even more dangerous since it starts to look like the world of perfect competition. You're probably much better off just opening a pizza restaurant in Palo Alto. 
 
 There is both an economic aspect and a psychological aspect to perfect competition. The economic insight is that the battles are so fierce because the stakes so small. Since profits are competed away, people are fighting over scraps. The psychological insight is that the economic insight is really weird. Why in the world would people want to fight for scraps? 
 
-![][27]But there's a psychological counterpoint to the psychological insight, and that is that people fight because they think it's the cool thing to do. This explains the phenomenon of social entrepreneurship, which can be defined as doing well while doing good. The problem is that social entrepreneurs usually end up doing neither. This is not to say that companies should always maximize profits to the exclusion of everything else. But companies _should_ have a specific mission. They should be solving some discrete, important problem. Social entrepreneurship fails that test. It has an incredible ambiguity to it. Is it actually good for society? Or is it simply _approved of_ by society? Those are very different questions. If they are not—if what is good is simply what the masses approve of—progress is very doubtful, since everyone will end up doing more or less the same thing. Everyone will have a solar startup. Each will have some story about how theirs is slightly different. But query whether those are meaningful differences or just eccentric ones. In vast, competitive markets you often end up with mimetic competition.
+![][27]
+
+But there's a psychological counterpoint to the psychological insight, and that is that people fight because they think it's the cool thing to do. This explains the phenomenon of social entrepreneurship, which can be defined as doing well while doing good. The problem is that social entrepreneurs usually end up doing neither. This is not to say that companies should always maximize profits to the exclusion of everything else. But companies _should_ have a specific mission. They should be solving some discrete, important problem. Social entrepreneurship fails that test. It has an incredible ambiguity to it. Is it actually good for society? Or is it simply _approved of_ by society? Those are very different questions. If they are not—if what is good is simply what the masses approve of—progress is very doubtful, since everyone will end up doing more or less the same thing. Everyone will have a solar startup. Each will have some story about how theirs is slightly different. But query whether those are meaningful differences or just eccentric ones. In vast, competitive markets you often end up with mimetic competition.
 
    [27]: http://media.tumblr.com/tumblr_m4mgwjyZtF1qbb0b4.png
 
@@ -290,7 +297,11 @@ There are very interesting applications of computer technology on the transport 
 
 **B. God of Thunder**
 
-But suppose we wanted to shift all the way to optimistic, determinate solutions. How would we do that? One suggestion is that we should explore thorium power in a very serious way. Thorium is a big secret. ![][33]When the government became very interested in nuclear technology in the 1940s, it found that you could get nuclear power from three chemical elements: plutonium, uranium, and thorium. The problem with Thorium was that it contains no fissile isotopes, which means you can't weaponize it. And the government was interested in building bombs, not generating power. Eisenhower's ‘53 Atoms for Peace speech was originally intended to warn of the perils of a thermonuclear age where everyone could be obliterated instantly. When that seemed too dark, it was retooled to talk about the promise of non-weaponized nuclear energy as well. Power generation was decidedly _not _the government's focus during the intensive R&D of the 1940s. But there is a sense today that we really don't need any more nuclear weapons. On that basis alone, thorium power seems worth revisiting.
+But suppose we wanted to shift all the way to optimistic, determinate solutions. How would we do that? One suggestion is that we should explore thorium power in a very serious way. Thorium is a big secret.
+
+![][33]
+
+When the government became very interested in nuclear technology in the 1940s, it found that you could get nuclear power from three chemical elements: plutonium, uranium, and thorium. The problem with Thorium was that it contains no fissile isotopes, which means you can't weaponize it. And the government was interested in building bombs, not generating power. Eisenhower's ‘53 Atoms for Peace speech was originally intended to warn of the perils of a thermonuclear age where everyone could be obliterated instantly. When that seemed too dark, it was retooled to talk about the promise of non-weaponized nuclear energy as well. Power generation was decidedly _not _the government's focus during the intensive R&D of the 1940s. But there is a sense today that we really don't need any more nuclear weapons. On that basis alone, thorium power seems worth revisiting.
 
    [33]: http://media.tumblr.com/tumblr_m4mf70d6pZ1qbb0b4.png
 

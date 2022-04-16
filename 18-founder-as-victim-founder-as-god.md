@@ -470,9 +470,9 @@ Resurrections are possible. But you can only be resurrected after you die. Found
 
 The usual narrative is that society should be organized to cater to and reward the people who play by the rules. Things should be as easy as possible for them. But perhaps we should focus more on the people who _don't_ play by the rules. Maybe they are, in some key way, the most important. Maybe we should let them off the hook. 
 
-Many readers will recognize the influence of René Girard in this material. To learn more about Girard's thinking and mimetic theory, visit [[www.imitatio.org][83]][83].
+Many readers will recognize the influence of René Girard in this material. To learn more about Girard's thinking and mimetic theory, visit [www.imitatio.org][83].
 
-   [83]: http://www.imitatio.org
+  [83]: http://www.imitatio.org
 
 ---
 

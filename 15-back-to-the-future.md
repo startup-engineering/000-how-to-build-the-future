@@ -40,9 +40,12 @@ Batteries have been the primary energy storage technology. But there is reason t
 
 So the future of energy storage is interestingly unclear. The chemical storage paradigm has done wonders, but maybe it's done doing them. The question then becomes whether it is fruitful to think about energy storage in completely different ways? Are there other, non-chemical ways to attack the problem?
 
-![][13]One company to highlight here is LightSail Energy. LightSail is developing a way to store energy more effectively. Again, this would enable a sort of incredible arbitrage where you can take advantage of the difference between the cost of peak vs. off-peak power production. Batteries and hydroelectric technologies are expensive and very limited. So their radically different approach treats energy storage not as a chemical problem, but rather as physics problem. 
+![][13]
+[13]: http://media.tumblr.com/tumblr_m4vrq8dolb1qbb0b4.png
 
-   [13]: http://media.tumblr.com/tumblr_m4vrq8dolb1qbb0b4.png
+One company to highlight here is LightSail Energy. LightSail is developing a way to store energy more effectively. Again, this would enable a sort of incredible arbitrage where you can take advantage of the difference between the cost of peak vs. off-peak power production. Batteries and hydroelectric technologies are expensive and very limited. So their radically different approach treats energy storage not as a chemical problem, but rather as physics problem. 
+
+
 
 [![][14]][15]
 
@@ -118,7 +121,7 @@ The big question was whether it was even possible to re-approach the problem fro
 
 The retrofuture idea is simply this: think about where the past failed, learn the right lessons, and make it work this time. But it's important to resist just being pulled in by the iconic future of old. There's no sense in making the same mistakes over again. The key is to approach old problems from a very different perspective. 
 
-**III. Perspectives –Conversation with LightSail Energy, The Climate Corporation, RoboteX, and SpaceX**
+**III. Perspectives – Conversation with LightSail Energy, The Climate Corporation, RoboteX, and SpaceX**
 
 **Peter Thiel:** Your companies all represent vary different ways of thinking about the future. We've discussed in this class how radical uniqueness can be a very good thing in business. But does it make it hard to recruit people?
 
@@ -148,17 +151,13 @@ Once we had the first prototype, it wasn't very difficult to get engineers. Robo
 
 **Danielle Fong:** SpaceX was incredibly bold in this regard. Usually cost structures have little to do with the actual cost of components, and more to do with what people have historically been able to charge for those components. Shaking up an entire industry that ran on a cost-plus basis surely ruffled some feathers. But it was a huge opportunity. One tactic I've learned is to simply tell any supplier who provides a gigantic price quote that I can just make the part myself. They go into negotiation mode very quickly, and lower the price. Then you take _that _price to another supplier, and basically let them bid against each other. The goal is to be efficient where you're not vertically integrated and also efficient where you are.
 
- 
-
-**Question from the audience: ** What has been your experience recruiting from or working with academia?
+**Question from the audience:** What has been your experience recruiting from or working with academia?
 
 **Greg Smirin:** We've got about 20 people with PhDs at the Climate Corporation, and for many of them this is their first job outside academia. There's certainly a transitional period. We have to help people learn how to use their talents to actually impact an organization instead of just applying for research grants or things like that. There is lots of screening on both sides before we bring someone on. Everybody's looking for a good cultural fit. Not everyone fits, of course. But the ones that do are incredibly energizing and enthusiastic. Being able to contribute and have product impact in their areas of interest is intensely rewarding for them.
 
 **Danielle Fong:** We work with professors on research topics all the time. Their input can be very helpful in terms of shifting discussion and vetting new ideas that we come up with. Professors are also pretty honest with us when we do reference checks and ask whether prospective hires are any good.
 
- 
-
-**Question from the audience: **How do you solve the distribution problem when you have to sell to the government or very large enterprises?
+**Question from the audience:** How do you solve the distribution problem when you have to sell to the government or very large enterprises?
 
 **Jon Hollander**: You can basically approach government sales in one of two ways.   The conventional way is to approach the military and do deals or research contracts there. The unconventional way, which is what RoboteX did, is to start small, target institutions like local police departments, and grow bottom-up. Staying thoroughly private was very important to us. Taking government funding often imposes serious constrains later down the line. By selling to lots of smaller agencies, we maintain a sense of freedom, get feedback from enthusiastic users, and can build up a nice revenue stream. And the plan, of course, is to scale that up and now we're going after any and every large commercial business that has some sort of hazardous material problem.
 
@@ -180,9 +179,6 @@ So the strategy should be to get the smallest customer that is also a good refer
 
 **Scott Nolan:** And you can appeal to people's sense of urgency. SpaceX would approach a customer and ask: Do you want to launch your satellite in 4 years? Or do you want to launch at dramatically less cost and fly next year? 
 
-
-><span>
-
 **Question from the audience: **How do you think about long-term exit strategy? Do you plan on being acquired or going public?
 
 **Danielle Fong:** In theory, we would consider an acquisition. The issue would be whether the acquirer would likely mess up what we are doing. That seems fairly likely, since we're taking such a unique approach to energy storage. But one never knows. The goal has to be to build a great business that can and will eventually trade publicly.
@@ -193,9 +189,7 @@ So the strategy should be to get the smallest customer that is also a good refer
 
 Typically, M&A is done for two reasons. First is to grind out inefficiencies. Banks, for example, just buy up smaller banks fire half the people. This creates somewhat larger, but more efficient banks. But simple efficiency is not what typically drives M&A in technology companies. In the tech world, M&A is usually about product synergy. It makes sense to merge when there is deep complementarity between two companies. There were big synergies between PayPal and eBay, for example. But that is the exception, not the rule. In practice, such synergy rarely exists. This is especially true where really unique technology is involved. Genuine complementarity between truly novel technology and what existing people are doing is very unlikely.
 
- 
-
-**Question from the audience: **Can you comment on the fundraising process for hardcore tech companies?
+**Question from the audience:** Can you comment on the fundraising process for hardcore tech companies?
 
 **Danielle Fong:** Well…it's really fucking hard!  [laughter]
 

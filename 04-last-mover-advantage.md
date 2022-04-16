@@ -173,7 +173,7 @@ _Here is an essay version of my class notes from Class 4 of CS183: Startup. Erro
    [9]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
    [10]: http://creativecommons.org/licenses/by-nc-nd/3.0/
 
-Originally posted by [Blake Masters][10] and the original [set of class notes available on Tumblr site.][11]
+Originally posted by [Blake Masters][11] and the original [set of class notes available on Tumblr site.][12]
 
    [11]:https://twitter.com/bgmasters
    [12]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.

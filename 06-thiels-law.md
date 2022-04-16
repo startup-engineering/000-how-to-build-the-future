@@ -34,7 +34,7 @@ In this calculus, one factor dominates all others. That factor is whether the fo
 
 One of Peter Thiel's first investments was in a company that Luke Nosek was starting back in 1998. The investment didn't go very well. Luke had met someone at a networking event and they decided to start a business together. The problem was that they had very different perspectives. Luke was this sort of chaotic, brilliant thinker. The other guy was very “by the books”—the kind of guy who had deliverables. It was doomed to fail. In a way choosing co-founders is like getting married. Getting married sometimes makes sense. But getting married to the first person you meet at the slot machines in Vegas probably doesn't. You might hit the jackpot. But chances are you won't. Good relationships amongst founders tend to drive a company's success. The question of the founding team is thus the single most important question in assessing an early startup. There are a couple different versions of it. How do the founders split up equity amongst themselves? How well do they work together?
 
-**II.  You Should Be a Delaware C-corp. **
+**II. You Should Be a Delaware C-corp.**
 
 A very important preliminary question is how you should set up your company. This isn't a hard question. You should set up as a Delaware C corporation. That is the right answer. You incorporate to achieve separation of your personal affairs and company affairs. You want to create a structure where you can let other people in, sell equity, etc. And incorporating can give you a lot more legitimacy. A business group called “Larry Page and Friends” might work today. It would not have worked in 1997. Give yourself the basic structure you'll need.
 
@@ -46,7 +46,7 @@ The big advantage of C corps is that exits are easier. You can take them public.
 
 Over 50% of C corporations get incorporated in Delaware. There are many reasons for this. Delaware business law is clear and well-understood. Its chancery courts are fast and predictable. The judges are pretty good. And there's some signaling too; everybody sort of does it, and most everybody thinks it's a good thing to do. You can just take it on faith that you want to be a Delaware C corporation.
 
-**III.  Ownership, Possession, Control**
+**III. Ownership, Possession, Control**
 
 As a founder, you must always be thinking about how and why things may get misaligned. Your job is to prevent misalignment from happening and fix it where it does. One framework to help think about misalignment distinguishes between ownership, possession, and control. These are related categories, but the differences are important. Ownership is who actually owns the company. This means who has equity and in what amounts. Possession is who operates the company. That is, who, on a day-to-day basis, is making decisions and doing stuff in company offices. You might think of possession as relating to job titles. Finally, control is who exercises control over the company in a formal sense. Control lies with the various people you put on your board, most of whom really don't know your business that well.
 
@@ -84,7 +84,7 @@ Founders need vesting schedules too. It's not ideal to have founders who are ful
 
 Consultants either get cash or equity that vests right away. But you should never hire any consultants. The equity reason is that immediate vesting produces bad incentives. The non-equity reason is that consultants break the bus metaphor. Everyone needs to be on board, rowing really hard in the same direction. 
 
-**V. Equity **
+**V. Equity**
 
 There are several different forms of equity. There is common stock, which is basically a simple fraction of ownership in a firm. It is typically expressed in number of shares. But that number itself is meaningless. Number of shares is just the numerator. You also need to know the number of shares outstanding, which is the denominator. Only the percentage of firm ownership matters. 200k/10m is the same as 20m/2bn. 2% is 2%.
 
@@ -134,7 +134,7 @@ You have to set up an option pool for future employees. 5% is a small pool. 15% 
 
 **VII. Investor Protection**
 
-There are a bunch of terms and devices that help VCs protect their money when they invest in you. One thing VCs tend to care a lot about is liquidation preference. A 1x preference basically means that investors get their money back before anyone else does. You can also have an _N_x liquidation preference where investors get their investment repaid _n _times before you make any money.
+There are a bunch of terms and devices that help VCs protect their money when they invest in you. One thing VCs tend to care a lot about is liquidation preference. A 1x preference basically means that investors get their money back before anyone else does. You can also have an _N_ x liquidation preference where investors get their investment repaid _n_ times before you make any money.
 
 You need liquidation preferences because they align incentives. Without any preference term, you could just take an investment, close up shop, and distribute the cash amongst your team. That's obviously a bad deal for investors. They need some guarantee that you won't take the money and run. So by providing that, upon winding down, they get all their money back before you get any, you are realigned and your incentive is to grow the business so that everyone makes money.
 
@@ -150,9 +150,9 @@ If there is one categorical rule, it's that you should never ever have a down ro
 
    [12]: http://media.tumblr.com/tumblr_m30a9mRNsn1qbb0b4.jpg
 
-If you must have a down round, it's probably best that it be a really catastrophic one. That way a lot of the mad people will be completely wiped out and thus won't show up to cause more problems while you start the hard task of rebuilding. But to repeat, you should _never _have a down round. If you found a company and every round you raise is an up round, you'll make at least some money. But if you have a single down round, you probably won't. 
+If you must have a down round, it's probably best that it be a really catastrophic one. That way a lot of the mad people will be completely wiped out and thus won't show up to cause more problems while you start the hard task of rebuilding. But to repeat, you should _never_ have a down round. If you found a company and every round you raise is an up round, you'll make at least some money. But if you have a single down round, you probably won't. 
 
-**VIII. More Investor Protection **
+**VIII. More Investor Protection**
 
 There are lots of other important terms in financings. The overarching goal is to get everybody's incentives aligned. So you should always be thinking about how different combinations of terms do or don't accomplish that goal. 
 
@@ -162,7 +162,7 @@ Restrictions on sales are commonly used. Some forms provide that common sharehol
 
 Then there are co-sale agreements, dividends on preferred stock, no-shop agreements, redemption terms, and conversion terms. All of these can be important. They're all worth learning about, understanding, and possibly negotiating. But they tend not to be the most crucial terms in a financing agreement.
 
-**IX. The Board **
+**IX. The Board**
 
 Your board of directors is responsible for corporate governance. Another way of saying that is that the board is in charge. Preferred shareholders typically have voting rights that allow them to approve actions, waive protective provisions, etc. But the importance of the board of directors cannot be overstated.
 
@@ -174,7 +174,7 @@ Building a valuable company is a long journey. A key question to keep your eye o
 
 The alternative is that you don't let anyone else in. We tend to give this approach the short shift. It's worth remembering that many successful businesses are built like this. Craigslist would be worth something like $5bn if it were run more like a company than a commune. GoDaddy never took funding. Trilogy in the late 1990s had no outside investors. Microsoft very nearly joined this club; it took one small venture investment just before its IPO. When Microsoft went public, Bill Gates still owned an astounding 49.2% of the company.
 
-So the question to think about with VCs isn't all that different than questions about co-founders and employees. Who are the best people? Who do you want—or need—on board?
+So the question to think about with VCs isn't all that different than questions about co-founders and employees. Who are the best people? Who do you want — or need — on board?
 
 ---
 

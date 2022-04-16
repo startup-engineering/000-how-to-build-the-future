@@ -1,10 +1,6 @@
 # Follow the Money
 
-**[Peter Thiel's CS183: Startup - Class 7 Notes Essay][7]**
-
-   [7]: http://blakemasters.tumblr.com/post/21869934240/peter-thiels-cs183-startup-class-7-notes-essay
-
-_I.  Venture Capital and You_
+**I.  Venture Capital and You**
 
 Many people who start businesses never deal with venture capitalists. Founders who do interact with VCs don't necessarily do that early on. First you get your founders together and get working. Then maybe you get friends, family, or angels to invest. If you do end up needing to raise a larger amount of capital, you need to know how VC works. Understanding how VCs think about money—or, in some cases, how they don't think about it and thus lose it—is important. 
 
@@ -54,15 +50,11 @@ All else equal, having 1% of a company is better than having 0.5%. But the 100th
 
 The pushback to this is that the standard perception is reasonable—or at least is not unreasonable—because the actual distribution curve turns out to be random. The thesis is that you are just a lottery ticket. That is wrong. We will talk about why that is wrong later. For now, it's enough to point out that the actual curve is a power law distribution. You don't have to understand every detail and implication of what that means. But it's important to get some handle on it. Even a tiny bit of understanding of this dimension is incredibly valuable.
 
- 
-
-_II.  The View from Sand Hill Road_
+**II.  The View from Sand Hill Road**
 
 **Peter Thiel:** One thing we should talk about is what secrets VCs use to make money. Well, actually most don't make money. So let's talk about that.
 
 **Roelof Botha:** The unprofitability of venture capital is pretty well documented. Average returns have been pretty low for a number of years now. One theory is that when venture was doing very well in the 1990s, it became a big deal to more or less blindly follow advice to put more money in venture. So the industry may be overinvested, and it's hard for most firms to make money.
-
- 
 
 **Peter Thiel:** Paul, what can entrepreneurs do to avoid getting taken advantage of by VCs?
 
@@ -71,9 +63,6 @@ _II.  The View from Sand Hill Road_
 **Peter Thiel:** We've discussed in this class how competition can be a scary thing. Maybe it's less bad when you make VCs compete against each other. In practice, you never really land just one investor. Chances are you have at least two people who are interested or you have zero. The cynical explanation of this is that most VCs have little or no confidence in their ability to make decisions. They just wait to ape others' decisions. 
 
 **Paul Graham:** But investors also have an interest to wait, if they can. Waiting means that you're able to get more data about a given company. So waiting is only bad for you if founders raise the price while you wait. VCs are looking for startups that are the next Google, or not. They are cool with 2x returns. But more than that they don't want to lose a Google.
-
-
-><span>
 
 **Peter Thiel:** How do you avoid being a VC that loses money?
 
@@ -86,9 +75,6 @@ _II.  The View from Sand Hill Road_
 **Peter Thiel:** Even within an individual business, there is probably a sort of power law as to what's going to drive it. It's troubling if a startup insists that it's going to make money in many different ways. The power law distribution on revenues says that one source of revenue will dominate everything else. Maybe you don't know what that particular source is yet. But it's certainly worth thinking about. Making money with A is key. Making money with A through E is terrifying, from an investor's perspective. 
 
 **Roelof Botha:** LinkedIn is exception that proves the rule there. It had 3 revenue streams that are pretty equal. No one else really has that. At least it's very unusual.
-
-
-><span>
 
 **Peter Thiel:** Do Y-Combinator companies follow a power law distribution? 
 
@@ -104,8 +90,6 @@ _II.  The View from Sand Hill Road_
 
 **Roelof Botha:** One thing that people struggle with is the notion that these massive companies can be built very quickly, often seemingly overnight. In the early PayPal days, there were perhaps 300 million internet users. Now there are 2 billion. We have more mobile phones. We have cloud computing. There are so many ways to grow. Consequently there is a qualitative difference in one's ability to have such a huge impact as an entrepreneur.
 
- 
-
 **Question from audience**: Do up, flat, and down rounds reflect power law distributions, or specifically where a company will fall on the distribution?
 
 **Peter Thiel:** First, it's important to note that when you join or start a startup, you're investing in it. All your eggs are in that basket. But because of the power law distribution, your investors aren't in a radically different place than you are. In a sense, VCs' eggs are in your basket too. They have a few more baskets than you do, but again, because of the power law, not many. VC isn't private equity where you shoot for consistent 2x or 3x returns.
@@ -116,8 +100,6 @@ One way to rephrase the question would be: is there a market inefficiency here? 
 
 **Peter Thiel:** Even factoring in dilution, you tend to do quite well if every round is an up round. But even a single down round tends to be disastrous, mainly because it destroys relationships among all the relevant players. If you're going to go with a not-so-intelligent investor who gives you a really huge valuation, you should take it only if it's the last money you're going to take.
 
- 
-
 **Question from audience:**  Does the shape of the distribution curve change or depend on the time or stage of the investment?
 
 **Peter Thiel:** The curve is fairly fractal-esque all the way up. Founders Fund tries to invest in 7 to 10 companies per fund. The goal is to get to 10x return. How hard is it to get to 10x? It's about as hard to get from $10m to $100m as it is from $100m to $1bn or $1bn to 10bn. Taking $100bn to a trillion is harder because the world isn't that big. Apple's market cap is $500bn. Microsoft's is $250bn. There's a pretty incredible power law all the way up.
@@ -126,8 +108,6 @@ The same is probably true on angel level. The angel investment landscape is sort
 
 **Roelof Botha:** There is a 50% mortality rate for venture-funded businesses. Think about that curve. Half of it goes to zero. There are some growth investments—later stage investments—which makes things less drastic. Some people try for 3-5x returns with a very low mortality rate. But even that VC model is still subject to power law. The curve is just not as steep.
 
- 
-
 **Question from audience:**  What if your business is just worth $50m and you can't grow it any more?
 
 **Paul Graham:** That assumption is nonsense. Grow it, if you want to. There's no such thing as an immutable company size. Companies are not intrinsically or inherently limited like that. Look at Microsoft or Apple. They started out making some small thing. Then they scaled and branched out as they succeeded.
@@ -135,8 +115,6 @@ The same is probably true on angel level. The angel investment landscape is sort
 To be clear, it's totally cool to have low aspirations. If you just want to make a $50m company, that's great. Just don't take venture capital, or at least don't tell VCs about your plans!
 
 **Peter Thiel:** It would raise a big red flag if you were to put a slide at the end of your deck that says you're looking to sell the company for $20m in 18 months.
-
- 
 
 **Question from audience:**  What happens when you take out a bunch of rounds and things don't go well and your current investors don't want to put in more?
 
@@ -148,11 +126,9 @@ To be clear, it's totally cool to have low aspirations. If you just want to make
 
 **Peter Thiel:** That is a perverse misallocation. There are differing perspectives on what to do in these situations. At one extreme, you just write checks and check out. At the other, you help whoever needs it as much as they need it. The unspoken truth is that the best way to make money might be to promise everyone help but then actually help the ones who are going to provide the best returns.
 
- 
-
 **Question from audience:** Bill Gates took no funding and he ended up with a large piece of Microsoft. If a startup can bootstrap instead of take venture capital, what should it do?
 
-**Paul Graham:** VC lets you borrow against future growth. You could wait until your revenues are high enough to fund _x_. But, if you're good enough, someone will give you money to do _x _now. If there's competition, you may need to do _x_ quickly. So if you don't screw things up, VC can often help you a great deal. 
+**Paul Graham:** VC lets you borrow against future growth. You could wait until your revenues are high enough to fund _x_. But, if you're good enough, someone will give you money to do _x_ now. If there's competition, you may need to do _x_ quickly. So if you don't screw things up, VC can often help you a great deal. 
 
 **Roelof Botha:** We would not be in the business if it were just writing checks. The entrepreneurs make it happen; they are the ones building the companies. But the board and VCs can roll up their sleeves, offer counsel, and assist as needed. They can be there for the entrepreneurs. We shouldn't overstate the importance of that, but neither should we dismiss it.
 
@@ -160,15 +136,11 @@ To be clear, it's totally cool to have low aspirations. If you just want to make
 
 **Peter Thiel:** If you're doing something where you don't need to move as quickly as possible, you might want to rethink taking venture funding. But if there's any sort of winner-take-all dynamic—if there is a power law distribution at play, then you want VC. Giving up 25% of your business is worth it if it enables you to take over your industry.
 
- 
-
 **Question from audience:** Do Sequoia or other top-tier VC firms offer tougher term sheets to account for the extra value they provide? Is all the stuff about non-monetary value-add just overplayed? 
 
 **Roelof Botha:** It's not overplayed. It really is personal. Who are you getting in business with? Can you trust them? I wouldn't send my brother to most VC firms. But some are great. You really have to get to know the people you might be working with. You're essentially entering a long-term relationship.
 
 Just look at you. There's information contained in your Stanford degree. The signaling helps you quite a bit. The same is true if you're backed by certain VCs. There's a lot of value in the name, independent of things like making important introductions. And strategic direction is hard to pinpoint, but it can accumulate in many interesting and beneficial ways. Even if we don't have the answers, we have probably seen similar problems before and we can help entrepreneurs think through the questions.
-
- 
 
 **Question from audience:**  Right now, entrepreneurs are trying to flip companies for $40m in 2 years or less. The incentive is to flip easy stuff instead of create hard technical stuff. What's the cause and what's the effect? Entrepreneur greed? VCs who don't value technical innovation?
 
@@ -182,21 +154,15 @@ Just look at you. There's information contained in your Stanford degree. The sig
 
 **Peter Thiel:** One strange corollary to the power curve dynamic is that the people who build the really great companies are usually hesitant to sell them. Almost necessarily that's the case. And it's not for lack of offers. Paradoxically, people who are heavily motivated by money are never the ones who make the most money in the power law world.
 
- 
-
 **Question from audience:** If the most money comes from people who aren't trying to make the most money, how do you handle that paradox as a VC?
 
 **Roelof Botha:** Consider a simple 2 x 2 matrix: on one axis you have easy to get along with founder, and not.  On the other, you have exceptional founder, and not. It's easy to figure out which quadrant VCs make money backing.
-
- 
 
 **Question from audience:**  If the power law distribution is so extreme, how can Y-Combinator succeed?
 
 **Paul Graham:** There is a very steep drop-off. Y Combinator essentially gets the first pick of a very good national and even international applicant pool.
 
 **Peter Thiel:** I won't come out as pro- or anti- Y Combinator. They do some things well and maybe some other things less well. But I will something anti-_not_-Y Combinator. If you go to incubator that's not Y Combinator, that is perceived as negative credential. It's like getting a degree at Berkeley. Okay. It's not Stanford. You can a complicated story about how you had to do it because your parents had a big mortgage or something. But it's a hard negative signal to get past.
-
- 
 
 **Question from audience:**  Do you back founders or ideas?
 
@@ -212,9 +178,6 @@ Just look at you. There's information contained in your Stanford degree. The sig
 
 **Peter Thiel:** Isaiah Berlin wrote an essay called “The Hedgehog and the Fox.” It revolved around a line from an ancient Greek poet: foxes know many little things, but hedgehogs know one big thing. People tend to think that foxes are best because they are nimble and have broad knowledge. But in business, it's better to be a hedgehog if you have to choose between the two. But you should still try and know lots of little things too.
 
-
-><span>
-
 **Question from audience:**  You mentioned “smart VCs” in your backtesting example. Who are the smart VCs?
 
 **Peter Thiel:** The usual suspects. Next question.
@@ -224,8 +187,6 @@ Just look at you. There's information contained in your Stanford degree. The sig
 **Paul Graham:** I fear that something will come along that causes me personally to have to do a lot more work. What's your greatest fear, Roelof? Andreessen Horowitz?
 
 **Roelof Botha:**  Suffice it to say that you're only as good as your next investment.
-
- 
 
 **Question from audience:**  Can entrepreneurs raise venture capital if they've raised and failed before? 
 
@@ -239,7 +200,6 @@ Just look at you. There's information contained in your Stanford degree. The sig
 
 **Roelof Botha:** Sometimes having experience with failed startups can make an entrepreneur even better. If they learn from it, maybe they get inspiration or insight for their next company. There are plenty of examples. But you should not fail for sake of failure, of course.
 
-
 **Question from audience:**  Do you fund teams of 1? 
 
 **Paul Graham:** Yes. Drew Houston was a team of one. We suggested that he find a co-founder. He did. It worked well.
@@ -251,6 +211,10 @@ Just look at you. There's information contained in your Stanford degree. The sig
 **Peter Thiel:** Think about co-founders from a power law perspective. Having one means giving up half the company. Having two means giving up 2/3. But if you pick the right people, it's likely that the outcome will be more than 2x or 3x what it would've been without them. So co-founders work pretty well in power law world.
 
 ---
+
+**[Peter Thiel's CS183: Startup - Class 7 Notes Essay][7]**
+
+   [7]: http://blakemasters.tumblr.com/post/21869934240/peter-thiels-cs183-startup-class-7-notes-essay
 
 _Here is an essay version of my class notes from Class 7 of CS183: Startup. Errors and omissions are mine._
 

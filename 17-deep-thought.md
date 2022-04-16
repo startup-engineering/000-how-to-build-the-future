@@ -15,7 +15,9 @@ By contrast, we tend to view computers as being very alike. All computers are mo
 
    [13]: http://media.tumblr.com/tumblr_m5513f7W8s1qbb0b4.png
 
-![][14]There is a great many ways that intelligence can be described and organized. Not all involve human intelligence. Even accounting for the vast diversity among all different people, human intelligence is probably only a tiny dot relative to all evolved forms of intelligence; imagine all the aliens in all planets of the universe that might or could exist.
+![][14]
+
+There is a great many ways that intelligence can be described and organized. Not all involve human intelligence. Even accounting for the vast diversity among all different people, human intelligence is probably only a tiny dot relative to all evolved forms of intelligence; imagine all the aliens in all planets of the universe that might or could exist.
 
    [14]: http://media.tumblr.com/tumblr_m5517xWYHd1qbb0b4.png
 
@@ -42,7 +44,7 @@ We tend to think of AI as being marginally smarter than an Einstein. But it is n
 
 A future with artificial intelligence would be so unrecognizable that it would unlike any other future. A biotech future would involve people functioning better, but still in recognizably human way. A retrofuture would involve things that have been tried before and resurrected. But AI has the possibility of being radically different and radically strange.
 
-There is a weird set of theological parallels you could map out. God may have been to the Middle Ages what AI will become to us. Will the AI _be _god? Will it be all-powerful? Will it love us? These seem like incomprehensible questions. But they may still be worth asking.
+There is a weird set of theological parallels you could map out. God may have been to the Middle Ages what AI will become to us. Will the AI _be_ god? Will it be all-powerful? Will it love us? These seem like incomprehensible questions. But they may still be worth asking.
 
 **II. The Strangeness of AI**
 
@@ -83,7 +85,7 @@ This can be reframed as a battle over control. How much control do humans have o
 
    [24]: http://media.tumblr.com/tumblr_m551pxkcaq1qbb0b4.png
 
-**III. The Opportunity of AI**** **
+**III. The Opportunity of AI**
 
 Hugeness and strangeness are interesting questions. But whether and how one can make money with AI may be even more interesting. So how big is the AI opportunity?
 
@@ -169,7 +171,7 @@ AI is also underexplored relative to biotech. Picture a 2x2 matrix; on one axis 
 
 PayPal, at Luke Nosek's urging, became the first company in the history of the world that had cryogenics as part of the employee benefits package. There was a Tupperware-style party where the cryogenics company representatives made the rounds trying to get people to sign up at $50k for neuro or $120k for full body. Things were going well until they couldn't print out the policies because they couldn't get their dot matrix printer to work. So maybe the way get biotech to work well is actually to push harder on the AI front.
 
-**IV. Tackling AI   **
+**IV. Tackling AI**
 
 We have people from three different companies that are doing AI-related things here to talk with us today. Two of these companies—Vicarious and Prior Knowledge—are pretty early stage. The third, Palantir, is a bit later. 
 
@@ -201,7 +203,7 @@ So let's talk with D. Scott Brown from Vicarious, Eric Jonas from Prior Knowledg
 
 **V. Perspectives**
 
-**Peter Thiel:**  The obvious question for Vicarious and Prior Knowledge is: why is _now _the time to be doing strong AI as opposed to 10-15 years from now?
+**Peter Thiel:**  The obvious question for Vicarious and Prior Knowledge is: why is _now_ the time to be doing strong AI as opposed to 10-15 years from now?
 
 **Eric Jonas:** Traditionally, there hasn't been a real need for strong AI. Now there is. We now we have tons more data than we've ever had before. So first, from a practical perspective, all this data demands that we do something with it. Second, AWS means that you no longer need to build your own server farms to chew through terabytes of data. So we think that a confluence of need and computing availability makes [Bayesian data crunching][43] make sense. 
 
@@ -225,7 +227,7 @@ Intelligence augmentation works because it focuses on _conceptual understanding_
 
 **Peter Thiel:**  AI is very different from most Silicon Valley companies doing web or mobile apps. Since engineers seem to gravitate toward those kind of startups, how do you go about recruiting?
 
-**Scott Brown:** We ask people what they care about. Most people want to make an impact. They may not know what the best way to do it is, but they want to do it. So we point out that it's hard to do something more important than building strong AI.  Then, if they're pretty interested, we ask them how they conceive of strong AI. What incremental test would something have to pass in order to bea stepping stone towards AI? They come up with a few tests. And then we compare their standards to our roadmap and what we've already completed. From there, it becomes very clear that Vicarious is where you should be if you're serious about building intelligent machines.
+**Scott Brown:** We ask people what they care about. Most people want to make an impact. They may not know what the best way to do it is, but they want to do it. So we point out that it's hard to do something more important than building strong AI.  Then, if they're pretty interested, we ask them how they conceive of strong AI. What incremental test would something have to pass in order to be a stepping stone towards AI? They come up with a few tests. And then we compare their standards to our roadmap and what we've already completed. From there, it becomes very clear that Vicarious is where you should be if you're serious about building intelligent machines.
  
 
 **Question from the audience:** Even if you succeed, what happens after you develop AI? What's your protection from competition?
@@ -262,13 +264,13 @@ More seriously, we do know that computational complexity bounds what AI can do. 
 
 **Bob McGrew:** We view the dangers of technology a little differently at Palantir, since we're doing intelligence augmentation around sensitive data, not trying to build strong AI. Certainly computers can be dangerous even if they're not full-blown artificially intelligent. So we work with civil liberty advocates and privacy lawyers to help us build in safeguards. It's very important to find the right balances.
 
-**Question from the audience: **Do we actually know enough about the brain to emulate it?
+**Question from the audience:** Do we actually know enough about the brain to emulate it?
 
 **Eric Jonas:** We understand surprisingly little about the brain. We know about how people solve problems. Humans are very good at intuiting patterns from small amount of data. Sometimes the process seems irrational, but it may actually be quite rational. But we don't know much about the nuts and bolts of neural systems. We know that various functions are happening, just not how they work. So people take different approaches. We take a different approach, but maybe what we know is indeed enough to pursue an emulation strategy. That's one coin to flip.
 
 **Scott Brown:** Like I said earlier, we think emulation is the wrong approach. The Wright brothers didn't need detailed models of bird physiology to build the airplane. Instead, we ask: what statistical irregularities would evolution have taken advantage of in designing the brain? If you look at me, you'll notice that the pixels that make up my body are not moving at random over your visual field. They tend to stay together over time. There's also a hierarchy, where when I move my face, my eyes and nose move with it. Seeing this spatial and temporal hierarchy to sensory data provides a good hint about what computations we should expect the brain to be doing. And lo and behold, when you look at the brain, you see a spatial and temporal hierarchy that mirrors the data of the world. Putting these ideas together in a rigorous mathematical way and testing how it applies to real-world data is how we're trying to build AI. So the neurophysiology is very helpful, but in a general sense.
 
-**Question from the audience: **How much of a good vision system will actually translate over to language, hearing, etc.? If it were so easy to solve one vertical and just apply it to others, wouldn't it have been done by now? Is there reason to think there's low overhead in other verticals?
+**Question from the audience:** How much of a good vision system will actually translate over to language, hearing, etc.? If it were so easy to solve one vertical and just apply it to others, wouldn't it have been done by now? Is there reason to think there's low overhead in other verticals?
 
 **Scott Brown:** It depends on whether you think there's a common cortical circuit. There is good experimental support for it being a single circuit, whether incoming data is auditory or visual. One recent experiment involved rewiring ferrets' brains to basically connect their optic nerves with the auditory processing regions instead of visual regions. The ferrets were able to see normally. There are a lot of experiments demonstrating related findings, which lends support to the notion of a common algorithm that we call “intelligence.” Certainly there are adjustments to be made for specific sensory types, but we think these will be tweaks to that master algorithm, and not some fundamentally different mechanism.
 
@@ -290,11 +292,11 @@ More seriously, we do know that computational complexity bounds what AI can do. 
 
 **Bob McGrew:** In this sense, Crowdflower is Palantir's dark twin; they're focusing on how to use _humans_ to make _computers_ better.
 
-**Question from the audience: **What are the principles that Palantir thinks about when building its software?
+**Question from the audience:** What are the principles that Palantir thinks about when building its software?
 
 **Bob McGrew:** There is no one big idea. We have several different verticals. In each, we look carefully at what analysts need to do. Instead of trying to replace the analyst, we ask what it is that they aren't very good at. How could software supplement what they are doing? Typically, that involves building software that processes lots of data, identifies and remembers patterns, etc.
   
-**Question from the audience: **How do balance training your systems vs. making them full-featured at the outset?  Babies understand facial expressions really well, but no baby can understand calculus.
+**Question from the audience:** How do balance training your systems vs. making them full-featured at the outset?  Babies understand facial expressions really well, but no baby can understand calculus.
 
 **Scott Brown:** This is exactly the sort of distinction we use to help us decide what knowledge should be encoded in our algorithms and what should be learned. If we can't justify a particular addition in terms of what could be plausible for real humans, we don't add it.
 
@@ -313,7 +315,7 @@ More seriously, we do know that computational complexity bounds what AI can do. 
    [44]: https://dev.priorknowledge.com/developers
 
 
-**Question from the audience: **Do you focus more on the big picture goal or on targeted milestones? 
+**Question from the audience:** Do you focus more on the big picture goal or on targeted milestones? 
 
 **Eric Jonas:** It's always got to be both. It's “we are building this incredible technology” and then “here's what it enables.” Milestones are key. Ask what you know that no one else does, and make a plan to get there. As Aaron Levie at Box says, you should always be able to explain why _now_ is the right time to do whatever it is you're doing. Technology is worthless without good timing and vice versa. 
 
@@ -325,7 +327,7 @@ It's worth noting that, if you're pitching a revolutionary technology as opposed
 
 And then there's the probably apocryphal story about Columbus on the voyage to the New World. Everybody thought that the world was much smaller than it actually was and that they were going to China. When they were sailing for what seemed like too long without hitting China, the crew wanted to turn back. Columbus convinced them to postpone mutiny for 3 more days, and then they finally landed on the new continent.
 
-**Eric Jonas: **Which pretty much makes North America the biggest pivot ever.
+**Eric Jonas:** Which pretty much makes North America the biggest pivot ever.
 
 ---
 
