@@ -54,7 +54,7 @@ Movie pitches unfold in much the same way. Most of them are the same in that the
 
    [8]: http://media.tumblr.com/tumblr_m2jh0pkaTI1qbb0b4.jpg
 
- The takeaway is that it's important to identify how these rhetorical narratives work. Non-monopolies always narrow their market. Monopolies insist they're in a huge market. In logical operator terms, non-monopolies tell intersection stories: British food ∩ restaurant ∩ Palo Alto. Hometown hero ∩ hackers ∩ sharks. Monopolies, by contrast, tell union stories about tiny fishes in big markets. Any narrative that carries the subtext of “we're not the monopoly the government is looking for” will do.
+The takeaway is that it's important to identify how these rhetorical narratives work. Non-monopolies always narrow their market. Monopolies insist they're in a huge market. In logical operator terms, non-monopolies tell intersection stories: British food ∩ restaurant ∩ Palo Alto. Hometown hero ∩ hackers ∩ sharks. Monopolies, by contrast, tell union stories about tiny fishes in big markets. Any narrative that carries the subtext of “we're not the monopoly the government is looking for” will do.
 
 C. Market Share Lies
 
