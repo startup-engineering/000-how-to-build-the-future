@@ -1,10 +1,4 @@
-### [Peter Thiel's CS183: Startup - Class 13 Notes Essay][7]
-
-   [7]: http://blakemasters.tumblr.com/post/23435743973/peter-thiels-cs183-startup-class-13-notes-essay
-
-Here is an essay version of my class notes from Class 13 of CS183: Startup. Errors and omissions are mine. Credit for good stuff is Peter’s entirely.
-
-_Class 13 Notes Essay—__ You Are Not A Lottery Ticket_
+# You Are Not A Lottery Ticket
 
 **I. The Question of Luck**
 
@@ -174,7 +168,7 @@ Indeterminacy has reoriented people’s ideas about investing. Whereas before in
 
 **K. Indeterminacy and Politics** 
 
-If you think that the future is indeterminate, the most important people are statisticians. Pollsters become more important than politicians. There has been a massive upward trend on polling in the last 30 years. We have polls on everything. And we believe them to be authoritative—it’s dangerous to try and outthink a statistically shifting bloc of voters. Unsurprisingly, then, politicians react to the polls instead of thinking about the future. This helps explain the strange mystery in 2008 of why John McCain picked Sarah Palin as a running mate. The McCain people reviewed all the polls about Republican governors and senators. Most were very unpopular. Palin, by contrast, had an 89% approval rating in Alaska (some of which seems attributable to Alaskans’ receiving an annual $1000+ oil royalty check). Just parsing poll data, Palin was the obvious choice. That didn’t work out quite as well as they expected. This has nothing to do with Palin’s merits as a candidate; it just goes to show how statistical poll data, and not clear thinking, can dominate politics. Taking a principled stand on unpopular positions is not what our leaders are incented to do. 
+If you think that the future is indeterminate, the most important people are statisticians. Pollsters become more important than politicians. There has been a massive upward trend on polling in the last 30 years. We have polls on everything. And we believe them to be authoritative—it’s dangerous to try and outthink a statistically shifting bloc of voters. Unsurprisingly, then, politicians react to the polls instead of thinking about the future. This helps explain the strange mystery in 2008 of why John McCain picked Sarah Palin as a running mate. The McCain people reviewed all the polls about Republican governors and senators. Most were very unpopular. Palin, by contrast, had an 89% approval rating in Alaska (some of which seems attributable to Alaskans’ receiving an annual $1000+ oil royalty check). Just parsing poll data, Palin was the obvious choice. That didn’t work out quite as well as they expected. This has nothing to do with Palin’s merits as a candidate; it just goes to show how statistical poll data, and not clear thinking, can dominate politics. Taking a principled stand on unpopular positions is not what our leaders are incented to do.
 
 We can broaden this idea to the government itself. The size of government hasn’t changed all that much in the last 40-50 years. But what the government actually does _has_ changed radically. In the past, the government would get behind specific ideas and execute them. Think the space program. Today, the government doesn’t do as many specific things. Mainly it just shifts money around from some people to other people. What do you do about poverty? Well, we don’t know. So let’s just give people money, hope it helps, and let them figure it out. If you can’t actually know what to do, just spreading money around is all you’ve got.
 
@@ -183,13 +177,13 @@ We can broaden this idea to the government itself. The size of government hasn�
 Science fiction literature also provides a version of the shift to indeterminacy. Fifty or 60 years ago, sci-fi portrayed the future in specific, definite terms. In 1968, Arthur C. Clark described the future of information consumption in _2001: A Space Odyssey_:
 
 > “The text was updated automatically
-> 
+>
 > on every hour… one could spend an
-> 
+>
 > entire lifetime doing nothing but
-> 
+>
 > absorbing the ever-changing flow of
-> 
+>
 > information from the news satellites.”
 
 In this world, information would update automatically. It was a very definite view of the future. But interestingly enough, the future in that future was indefinite. There would be an ever-changing flow of information that you couldn’t know in advance. This seems remarkably prescient.
@@ -197,9 +191,9 @@ In this world, information would update automatically. It was a very definite vi
 Contrast that with William Gibson’s 1984 book, _Neuromancer_: 
 
 > “The sky above the port
-> 
+>
 > was the color of television,
-> 
+>
 > tuned to a dead channel.”
 
 Here, 14 years after Clarke’s _2001_, the future is one in which you can’t see anything. It’s all a random probability cloud.
@@ -294,15 +288,20 @@ It’s important to note that you can always form a definite plan even in the mo
 
 Our society has been indeterminately optimistic for the last quarter century. But that quadrant is fraying at edges. We’re falling downwards towards pessimism. Can we shift instead to definite optimism? Computer Science is our best hope. CS is about deterministic as you can get. It’s incredibly odd that we view tech startups through such an indeterminate lens. But where you go from here—and what lens you use—is up to you. An alternative title for this lecture would be “Control Alt Delete.” The best edit is often a complete re-write. And maybe it’s time to start writing lots of things from scratch.
 
-* * *
+---
+
+**[Peter Thiel's CS183: Startup - Class 13 Notes Essay][7]**
+
+   [7]: http://blakemasters.tumblr.com/post/23435743973/peter-thiels-cs183-startup-class-13-notes-essay
+
+_Here is an essay version of my class notes from Class 13 of CS183: Startup. Errors and omissions are mine. Credit for good stuff is Peter’s entirely._
 
 [![Creative Commons License][19]][20]
 
    [19]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
    [20]: http://creativecommons.org/licenses/by-nc-nd/3.0/
 
-Originally posted by [Blake Masters][21]. You can find the [set of class notes on his site][22]
+Originally posted by [Blake Masters][21] and the original [set of class notes available on Tumblr site.][22]
 
    [21]:https://twitter.com/bgmasters
    [22]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.
-

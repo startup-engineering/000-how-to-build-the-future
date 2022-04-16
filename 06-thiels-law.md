@@ -1,13 +1,4 @@
-### [Peter Thiel's CS183: Startup - Class 6 Notes Essay][7]
-
-   [7]: http://blakemasters.tumblr.com/post/21742864570/peter-thiels-cs183-startup-class-6-notes-essay
-
-Here is an essay version of my class notes from Class 6 of CS183: Startup. Errors and omissions are my own. Credit for good stuff is Peter’s entirely. This class was kind of a crash course in VC financing. I didn't include all the examples since you can learn more about VC math elsewhere, e.g. [here][8] or [here][9]. As usual, though, I've tried to include all the key insights from the lecture.
-
-   [8]: http://amzn.com/0470929820 (Venture Deals)
-   [9]: http://www.amazon.com/Term-Sheets-Valuations-Intricacies-Venture/dp/1587620685 (Term Sheets and Valuations)
-
-**_CS183: Startup—Notes Essay__—Thiel's Law_**
+# Thiel's Law
 
 **I.  Origins, Rules, Culture**
 
@@ -33,7 +24,7 @@ Good, high trust people with low alignment structure is basically anarchy. The c
 
 Sometimes the opposite combination—low trust people and lots of rules—can work too. This is basically totalitarianism. Foxconn might be a representative example. Lots of people work there. People are sort of slaves. The company even installs suicide nets to catch workers when they jump off the buildings. But it’s a very productive place, and it sort of works.
 
-The low trust, low alignment model is dog-eat-dog sort of world. People who you might not trust can do a lot of whatever they want. An investment bank might be a good example. It’s best to avoid this combination. 
+The low trust, low alignment model is dog-eat-dog sort of world. People who you might not trust can do a lot of whatever they want. An investment bank might be a good example. It’s best to avoid this combination.
 
 The ideal is the combination of high trust people with a structure that provides a high degree of alignment. People trust each other and together create a good culture. But there’s good structure to it, too. People are rowing in the same direction, and not by accident.
 
@@ -185,12 +176,23 @@ The alternative is that you don’t let anyone else in. We tend to give this app
 
 So the question to think about with VCs isn’t all that different than questions about co-founders and employees. Who are the best people? Who do you want—or need—on board?
 
+---
+
+**[Peter Thiel's CS183: Startup - Class 6 Notes Essay][7]**
+
+   [7]: http://blakemasters.tumblr.com/post/21742864570/peter-thiels-cs183-startup-class-6-notes-essay
+
+_Here is an essay version of my class notes from Class 6 of CS183: Startup. Errors and omissions are my own. Credit for good stuff is Peter’s entirely. This class was kind of a crash course in VC financing. I didn't include all the examples since you can learn more about VC math elsewhere, e.g. [here][8] or [here][9]. As usual, though, I've tried to include all the key insights from the lecture._
+
+[8]: http://amzn.com/0470929820 (Venture Deals)
+[9]: http://www.amazon.com/Term-Sheets-Valuations-Intricacies-Venture/dp/1587620685 (Term Sheets and Valuations)
+
 [![Creative Commons License][13]][14]
 
    [13]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
    [14]: http://creativecommons.org/licenses/by-nc-nd/3.0/
 
-Originally posted by [Blake Masters][15]. You can find the [set of class notes on his site][16]
+Originally posted by [Blake Masters][15] and the original [set of class notes available on Tumblr site.][16]
 
    [15]:https://twitter.com/bgmasters
    [16]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.

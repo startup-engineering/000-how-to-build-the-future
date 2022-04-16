@@ -1,20 +1,4 @@
-### [Peter Thiel's CS183: Startup - Class 16 - Decoding Ourselves][7]
-
-   [7]: http://blakemasters.tumblr.com/post/24253160557/peter-thiels-cs183-startup-class-16-decoding
-
-He is an essay version of my class notes from Class 16 of CS183: Startup. Errors and omissions are mine. Thanks to [@1wu][8] for some supplementary notes!
-
-   [8]: http://graphics.stanford.edu/~lwu2/ (L Wu)
-
-Three guests joined the class for a conversation after Peter’s remarks:
-
-  1. Brian Slingerland. Co-Founder, President & COO at Stem CentRx;
-  2. Balaji S. Srinivasan, CTO of Counsyl; and
-  3. Brian Frezza, Co-founder, Emerald Therapeutics
-
-Credit for good stuff goes to them and Peter. I have tried to be accurate. But note that this is not a transcript of the conversation.
-
-**_Class 16 Notes Essay—Decoding Ourselves_**
+# Decoding Ourselves
 
  **I. The Longevity Project**
 
@@ -52,7 +36,7 @@ Another way to think about it is this: every day you survive, you add 5 of 6 hou
 
 In a sense, longevity is the opposite of bad luck. At the broadest level, you get into trouble when something unlucky happens to you. Think of everything that can go wrong. Maybe a piece of your DNA mutates and starts a cancer. Maybe you get run over by a car. Or maybe you get hit by an asteroid. There are many different unlucky things that could happen. So the question of longevity can be rephrased as the question of whether and to what extent luck can be overcome.
 
-From the 17th to the mid-19th centuries, the prevailing view was that we _could_ overcome all these accidents. Francis Bacon’s _New Atlantis_ was the classic vision of an accident-free utopia. It was a _new _Atlantis because, unlike the old one that the Gods destroyed, new Atlanteans had complete mastery over nature. 
+From the 17th to the mid-19th centuries, the prevailing view was that we _could_ overcome all these accidents. Francis Bacon’s _New Atlantis_ was the classic vision of an accident-free utopia. It was a _new _Atlantis because, unlike the old one that the Gods destroyed, new Atlanteans had complete mastery over nature.
 
 [![][17]][18]
 
@@ -258,8 +242,6 @@ But it’s also an interesting genomics problem. A person’s genome provides a 
 
 **Brian Slingerland:** Not being able to trial on earlier stage people is always a challenge. But our technology it is designed to apply to patients at all stages. All I can say is that our approach is stage agnostic for a variety of technical reasons. But generally speaking yours is a valid concern. That’s why traditional drugs that show initial progress often fizzle out in extended trials.
 
- 
-
 **Question from the audience: **What were some of your early struggles or challenges?
 
 **Brian Frezza:** The amount of time it took to set up a lab was shockingly large. 100% of our time went into acquiring equipment, negotiating price, dealing with initialization failures, etc. We greatly underestimated the time required to get up and running because we were coming out of existing, well-supplied labs. It basically takes a whole year to get up and running. There’s just a huge difference from the computer/Internet tech world.
@@ -268,19 +250,30 @@ But it’s also an interesting genomics problem. A person’s genome provides a 
 
 **Balaji Srinivasan:** Startups are always hard at the start. There are futons and ironing boards in the office. You have to rush to clean up for meetings. But maybe the hardest thing is just to get your foundation right and make sure you plan to build something valuable. You don’t have to do a science fair project at the start. You just have to do your analytical homework and make sure what you’re doing is valid. You have to give yourself the best chance of success as things unfold in the future.
 
-* * *
+---
 
-[![Creative Commons License][33]][34]
+**[Peter Thiel's CS183: Startup - Class 16 - Decoding Ourselves][7]**
 
-   [33]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
-   [34]: http://creativecommons.org/licenses/by-nc-nd/3.0/
+   [7]: http://blakemasters.tumblr.com/post/24253160557/peter-thiels-cs183-startup-class-16-decoding
 
-If you're interested in these companies, do check out [jobs.counsyl.com][35] and [stemcentrx.com/careers][36].
+_He is an essay version of my class notes from Class 16 of CS183: Startup. Errors and omissions are mine. Thanks to [@1wu][8] for some supplementary notes!_
 
-   [35]: http://jobs.counsyl.com/
-   [36]: http://stemcentrx.com/careers.html (StemCentrix careers)
+   [8]: http://graphics.stanford.edu/~lwu2/ (L Wu)
 
-Originally posted by [Blake Masters][37]. You can find the [set of class notes on his site][38]
+Three guests joined the class for a conversation after Peter's remarks:
 
-   [37]:https://twitter.com/bgmasters
-   [38]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.
+  1. Brian Slingerland. Co-Founder, President & COO at Stem CentRx;
+  2. Balaji S. Srinivasan, CTO of Counsyl; and
+  3. Brian Frezza, Co-founder, Emerald Therapeutics
+
+Credit for good stuff goes to them and Peter. I have tried to be accurate. But note that this is not a transcript of the conversation.
+
+[![Creative Commons License][49]][40]
+
+   [49]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
+   [40]: http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+Originally posted by [Blake Masters][50] and the original [set of class notes available on Tumblr site.][51]
+
+   [50]:https://twitter.com/bgmasters
+   [51]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.

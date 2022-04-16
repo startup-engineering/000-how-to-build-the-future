@@ -1,12 +1,4 @@
-### [Peter Thiel's CS183: Startup - Class 5 Notes Essay][7]
-
-   [7]: http://blakemasters.tumblr.com/post/21437840885/peter-thiels-cs183-startup-class-5-notes-essay
-
-Here is an essay version of my class notes from Class 5 of CS183: Startup. Errors and omissions are mine.
-
-Stephen Cohen, co-founder and Executive VP of Palantir Technologies, and Max Levchin of PayPal and Slide fame joined this class as guest speakers. Credit for good stuff goes to them and Peter. I have tried to be accurate. But note that this is not a transcript of the conversation.
-
-**_CS183: Startup—Notes Essay__—The Mechanics of Mafia_**
+# The Mechanics of Mafia
 
 **I. Company Cultures**
 
@@ -106,7 +98,7 @@ The danger is that you get soft. It’s hard not to get soft as you train niceti
 
 Even though people would physically fight on the engineering room floor, if you ever asked PayPal people if they respected each other, the answer was obvious. For a very long time, everyone believed in everyone else. That was not true at Slide. There, the subtle passive-aggressive lack of respect was allowed to develop too long. It proved very costly. At some point, there had to be a relatively significant bloodletting. It was stressful. The victims of the purge were so nice. It was easy to like them. It felt like a very bad, mean thing to do.  But it was a good decision. Subsequently the company was run and performed much better. Yes, the love dissipated. But you knew that whatever remained was rooted in respect.
 
-**Peter Thiel:**  It is incredibly important to surface issues quickly. Ideally everyone in an organization is rowing in same direction. Ideally there’s a strong, shared vision of the company’s future. But at the micro level, details matter a lot. People will disagree about them often. When that happens, it simply must surface. Concealing disagreements because people feel uncomfortable makes for disaster. It doesn’t fix things. They just sit undealt with, doing damage.  Even in best of startups, a lot of chaotic things happen. If disagreements aren’t surfacing, it’s not because there are none. Key things are being covered up. Everyone moving together in lockstep is a big red flag, not an ideal.  
+**Peter Thiel:**  It is incredibly important to surface issues quickly. Ideally everyone in an organization is rowing in same direction. Ideally there’s a strong, shared vision of the company’s future. But at the micro level, details matter a lot. People will disagree about them often. When that happens, it simply must surface. Concealing disagreements because people feel uncomfortable makes for disaster. It doesn’t fix things. They just sit undealt with, doing damage.  Even in best of startups, a lot of chaotic things happen. If disagreements aren’t surfacing, it’s not because there are none. Key things are being covered up. Everyone moving together in lockstep is a big red flag, not an ideal. 
 
 The standard view is that companies get destroyed by external competition. Maybe that’s true in the long run. But in the short run—and most that fail fail in the short run—they get destroyed internally. Even the best companies have ups and downs. If destructive relationships unravel and wreck havoc during a down, the whole ship can blow up. Companies are not simple unitary entities in larger competitive ecosystems. They are complex entities with complex dynamics. Usually those dynamics blow up before some predator from the wider ecosystem strikes.
 
@@ -144,7 +136,7 @@ So the way to compete against the giants is not with money. Google will outbid y
 
 **Stephen Cohen:**   We tend to massively underestimate the compounding returns of intelligence. As humans, we need to solve big problems. If you graduate Stanford at 22 and Google recruits you, you’ll work a 9-to-5. It’s probably more like an 11-to-3 in terms of hard work. They’ll pay well. It’s relaxing. But what they are actually doing is paying you to accept a much lower intellectual growth rate. When you recognize that intelligence is compounding, the cost of that missing long-term compounding is enormous. _They’re not giving you the best opportunity of your life_. Then a scary thing can happen: You might realize one day that you’ve lost your competitive edge. You won’t be the best anymore. You won’t be able to fall in love with new stuff. Things are cushy where you are. You get complacent and stall. So, run your prospective engineering hires through that narrative. Then show them the alternative: working at your startup.
 
-  
+
 ><span>
 
 **Question:**  **How does one preserve diversity of opinions in a startup?**
@@ -157,12 +149,22 @@ But arguing about smart marketing moves or different approaches to solving tacti
 
 The super broad, horizontal search is perhaps okay when you’re thinking about starting a company initially. But returning to it at later stages is counterproductive. An internet company talking about being a cleantech company is lost. People tend to overrate the value of horizontal search and underestimate the sheer size of the search space. Far better is to understand how to do vertical search and to value depth over breadth.
 
+---
+
+**[Peter Thiel's CS183: Startup - Class 5 Notes Essay][7]**
+
+   [7]: http://blakemasters.tumblr.com/post/21437840885/peter-thiels-cs183-startup-class-5-notes-essay
+
+_Here is an essay version of my class notes from Class 5 of CS183: Startup. Errors and omissions are mine._
+
+_Stephen Cohen, co-founder and Executive VP of Palantir Technologies, and Max Levchin of PayPal and Slide fame joined this class as guest speakers. Credit for good stuff goes to them and Peter. I have tried to be accurate. But note that this is not a transcript of the conversation._
+
 [![Creative Commons License][9]][10]
 
    [9]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
    [10]: http://creativecommons.org/licenses/by-nc-nd/3.0/
 
-Originally posted by [Blake Masters][11]. You can find the [set of class notes on his site][12]
+Originally posted by [Blake Masters][10] and the original [set of class notes available on Tumblr site.][11]
 
    [11]:https://twitter.com/bgmasters
    [12]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.

@@ -1,12 +1,4 @@
-### [Peter Thiel's CS183: Startup - Class 12 Notes Essay][7]
-
-   [7]: http://blakemasters.tumblr.com/post/23250566538/peter-thiels-cs183-startup-class-12-notes-essay
-
-Here is an essay version of my class notes from Class 10 of CS183: Startup. Errors and omissions are mine.
-
-Reid Hoffman, co-founder of LinkedIn and Partner at Greylock Partners, joined this class as a guest speaker. Credit for good stuff goes to him and Peter. I have tried to be accurate. But note that this is not a transcript of the conversation.
-
-_Class 12 Notes Essay—War and Peace_
+# War and Peace
 
 **I.  War Without**
 
@@ -42,15 +34,15 @@ The other version is Shakespeare. This could be called the external perspective 
 Two houses. Alike. Yet they seem to hate each other. In a very dynamic process, they grow ever more similar as they fight. They lose sight of why they’re fighting to begin with. Consider Hamlet:
 
 > Exposing what is mortal and unsure
-> 
+>
 > To all that fortune, death, and danger dare,
-> 
+>
 > Even for an eggshell. Rightly to be great
-> 
+>
 > Is not to stir without great argument,
-> 
+>
 > But greatly to find quarrel in a straw
-> 
+>
 > When honor’s at the stake.
 
 To be truly great, you have to be willing to fight for reasons as thin as an eggshell. Anyone can fight for things that matter. True heroes fight for what _doesn’t_ matter. Hamlet doesn’t quite achieve greatness; he’s too focused on the external narrative of how meaningless everything is. He never can bring himself to fight.
@@ -59,7 +51,7 @@ To be truly great, you have to be willing to fight for reasons as thin as an egg
 
 **A. What’s Past is Prologue**
 
-So which perspective is right in the tech world? How much is Marx? How much is Shakespeare? 
+So which perspective is right in the tech world? How much is Marx? How much is Shakespeare?
 
 In the great majority of cases, it’s straight Shakespeare. People become obsessed with their competitors. Companies converge on similarity. They grind each other down through increased competition. And everyone loses sight of the bigger picture.
 
@@ -71,7 +63,7 @@ You can find this pattern everywhere. A particularly comic example is Oracle vs.
 
 At one point, Oracle hatched an interesting plan of attack. Siebel had no billboard space in front of its office. So Oracle rented a huge truck and parked it in front of Siebel HQ. They put up all sorts of ads on it that made fun of Siebel in attempt lure Siebel employees away. But then Oracle acquired Siebel in 2005. Presumably they got rid of the truck at that point.
 
-The ad wars aren’t just throwaway anecdotes. They tell us a lot about how companies were thinking about themselves and the future. In the ‘90s, a company called Informix started a Billboard war with Oracle. It put up a sign near Oracle HQ off the 101 that said: “You just passed Redwood Shores. So did we.” Another billboard featured a “Dinosaur Crossing” sign superimposed in front of the Oracle Towers. 
+The ad wars aren’t just throwaway anecdotes. They tell us a lot about how companies were thinking about themselves and the future. In the ‘90s, a company called Informix started a Billboard war with Oracle. It put up a sign near Oracle HQ off the 101 that said: “You just passed Redwood Shores. So did we.” Another billboard featured a “Dinosaur Crossing” sign superimposed in front of the Oracle Towers.
 
 ![][9]![][10]
 
@@ -224,23 +216,19 @@ It was much harder to compete against the Buy It Now feature. There, eBay had gr
 
 The takeaway advice is to always keep questioning the battle. Never get complacent. When you’re in battle, only the paranoid survive.
 
- 
-
 **Question from audience:** What do you think about the competition between Silicon Valley and New York? Reid, Mayor Bloomberg has argued that New York will become the dominant tech scene because the best people want to live there. He quoted you as saying “I don’t like all that culture stuff” and suggested that that view is “narrow.”
 
 **Reid Hoffman:**  I’m friends with Mayor Bloomberg, but I’ll return fire. 
 
 So Bloomberg is trying to make a tech-friendly New York that will compete and beat Silicon Valley. That’s great. We wish him the best of luck.  More great technology innovation hubs within the US are great for us. 
 
-But, to compete, they’ll certainly need the luck. Silicon Valley has an enormous network effect. Tech is what we do. This is the game we play. If there’s anywhere in the world to go for tech, it’s here. People move here just to be a part of the tech scene. 
+But, to compete, they’ll certainly need the luck. Silicon Valley has an enormous network effect. Tech is what we do. This is the game we play. If there’s anywhere in the world to go for tech, it’s here. People move here just to be a part of the tech scene.
 
 The New York tech world has to compete for its technical people. Many of the best tech people go to hedge funds or move to Silicon Valley. 
 
 One of ways to understand effect of competition is companies that emerge here are competitive globally because crucible is so high. The best people go into tech here. And they have a single-minded focus about their work.
 
 All the culture of NYC doesn’t matter positively or negatively, relative to succeeding at the technology innovation game. So it’s a wonderful place to live. Fine. Mayor Bloomberg, you’re very welcome to the people who want to live in New York for its culture and theater and operas. Personally, I love to visit. The people that we want are the ones who want to win this game first and foremost, and who don’t care terribly much about missing Broadway shows.
-
-  
 
 **Question from audience:** Isn’t culture important in a sense, though? Silicon Valley engineers aren’t social. So how can they make social games?
 
@@ -256,14 +244,22 @@ Reid, final question. What advice would you give young entrepreneurs?
 
 The network is key. This is a large part of how you learn new things. Connect with smart people. Talk. What have you seen in last couple of months? What do you know? It’s not a go-and-read-everything strategy. You’d die before you could pull that off. Just exchange ideas with the smart people in your network. Not constantly, of course—you need to do work too—but in a focused way. Take what you learn and update your strategy if it’s warranted. And then keep executing on it.
 
-* * *
+---
+
+**[Peter Thiel's CS183: Startup - Class 12 Notes Essay][7]**
+
+   [7]: http://blakemasters.tumblr.com/post/23250566538/peter-thiels-cs183-startup-class-12-notes-essay
+
+_Here is an essay version of my class notes from Class 12 of CS183: Startup. Errors and omissions are mine._
+
+_Reid Hoffman, co-founder of LinkedIn and Partner at Greylock Partners, joined this class as a guest speaker. Credit for good stuff goes to him and Peter. I have tried to be accurate. But note that this is not a transcript of the conversation._
 
 [![Creative Commons License][15]][16]
 
    [15]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
    [16]: http://creativecommons.org/licenses/by-nc-nd/3.0/
 
-Originally posted by [Blake Masters][17]. You can find the [set of class notes on his site][18]
+Originally posted by [Blake Masters][17] and the original [set of class notes available on Tumblr site.][18]
 
    [17]:https://twitter.com/bgmasters
    [18]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.

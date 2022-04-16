@@ -1,19 +1,4 @@
-### [Peter Thiel's CS183: Startup - Class 15 Notes Essay][7]
-
-   [7]: http://blakemasters.tumblr.com/post/24122680868/peter-thiels-cs183-startup-class-15-notes-essay
-
-Here is an essay version of my class notes from Class 15 of CS183: Startup. Errors and omissions are mine.
-
-Four guests joined the class for a conversation after the lecture:
-
-  1. Danielle Fong, Co-founder and Chief Scientist of LightSail Energy;
-  2. Jon Hollander, Business Development at RoboteX;
-  3. Greg Smirin, COO of The Climate Corporation; and
-  4. Scott Nolan, Principal at Founders Fund and former aerospace engineer at SpaceX (Elon Musk was going to come, but he was busy launching rockets).
-
-Credit for good stuff goes to them and Peter. I have tried to be accurate. But note that this is not a transcript of the conversation. 
-
-_Class 15 Notes Essay—Back to the Future_
+# Back to the Future
 
 **I. The Future of The Past**
 
@@ -195,7 +180,7 @@ So the strategy should be to get the smallest customer that is also a good refer
 
 **Scott Nolan:** And you can appeal to people’s sense of urgency. SpaceX would approach a customer and ask: Do you want to launch your satellite in 4 years? Or do you want to launch at dramatically less cost and fly next year? 
 
-  
+
 ><span>
 
 **Question from the audience: **How do you think about long-term exit strategy? Do you plan on being acquired or going public?
@@ -222,18 +207,35 @@ Typically, M&A is done for two reasons. First is to grind out inefficiencies. Ba
 
 **Peter Thiel:** It is very hard hard for investors to invest in things that are unique. The psychological struggle is hard to overstate. People gravitate to the modern portfolio approach. The narrative that people tell is that _their_ portfolio will be a portfolio of different things. But that seems odd. 
 
-Things that are truly different are hard to evaluate. Suppose someone wants to start a rocket company. You might ask, quite reasonably, “What experience do you have with rockets?” The answer might be “zero.” Elon didn’t have any experience in making rockets before he started SpaceX. Or suppose a VC wants to invest in a rocket company. The question becomes: “What on earth do you know about rockets?” Again, the answer is probably “nothing.” No one has invested in rockets in over 40 years. 
+Things that are truly different are hard to evaluate. Suppose someone wants to start a rocket company. You might ask, quite reasonably, “What experience do you have with rockets?” The answer might be “zero.” Elon didn’t have any experience in making rockets before he started SpaceX. Or suppose a VC wants to invest in a rocket company. The question becomes: “What on earth do you know about rockets?” Again, the answer is probably “nothing.” No one has invested in rockets in over 40 years.
 
 iPhone games, by contrast, are entirely familiar. If you ask a gaming entrepreneur what experience he has with games, he’ll tell you about all the games he’s made before. Ask a VC what they know about games and they’ll go on and on about the many gaming companies in their portfolio.
 
 The upside to doing something that you’re unfamiliar with, like rockets, is that it’s likely that no one else is familiar with it, either. The competitive bar is lowered. You can focus on learning and substantive things over process, which is perhaps better than competing against experts. 
 
-[![Creative Commons License][28]][29]
+---
 
-   [28]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
-   [29]: http://creativecommons.org/licenses/by-nc-nd/3.0/
+**[Peter Thiel's CS183: Startup - Class 15 Notes Essay][7]**
 
-Originally posted by [Blake Masters][30]. You can find the [set of class notes on his site][31]
+   [7]: http://blakemasters.tumblr.com/post/24122680868/peter-thiels-cs183-startup-class-15-notes-essay
 
-   [30]:https://twitter.com/bgmasters
-   [31]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.
+_Here is an essay version of my class notes from Class 15 of CS183: Startup. Errors and omissions are mine._
+
+Four guests joined the class for a conversation after the lecture:_
+
+  1. Danielle Fong, Co-founder and Chief Scientist of LightSail Energy;
+  2. Jon Hollander, Business Development at RoboteX;
+  3. Greg Smirin, COO of The Climate Corporation; and
+  4. Scott Nolan, Principal at Founders Fund and former aerospace engineer at SpaceX (Elon Musk was going to come, but he was busy launching rockets).
+
+_Credit for good stuff goes to them and Peter. I have tried to be accurate. But note that this is not a transcript of the conversation._
+
+[![Creative Commons License][39]][30]
+
+   [39]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
+   [30]: http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+Originally posted by [Blake Masters][40] and the original [set of class notes available on Tumblr site.][41]
+
+   [40]:https://twitter.com/bgmasters
+   [41]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.

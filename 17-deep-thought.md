@@ -1,22 +1,4 @@
-### [Peter Thiel's CS183: Startup - Class 17 - Deep Thought][7]
-
-   [7]: http://blakemasters.tumblr.com/post/24464587112/peter-thiels-cs183-startup-class-17-deep-thought
-
-He is an essay version of class notes from Class 17 of CS183: Startup. Errors and omissions are mine.
-
-Three guests joined the class for a conversation after Peter’s remarks:
-
-  1. D. Scott Brown, co-founder of [Vicarious][8]
-  2. Eric Jonas, CEO of [Prior Knowledge][9]
-  3. Bob McGrew, Director of Engineering at [Palantir][10]
-
-   [8]: http://vicariousinc.com/ (Vicarious)
-   [9]: https://www.priorknowledge.com/ (Prior Knowledge)
-   [10]: http://www.palantir.com (Palantir)
-
-Credit for good stuff goes to them and Peter. I have tried to be accurate. But note that this is not a transcript of the conversation.
-
-**_Class 17 Notes Essay—Deep Thought_** 
+# Deep Thought
 
 **I. The Hugeness of AI** 
 
@@ -103,7 +85,7 @@ This can be reframed as a battle over control. How much control do humans have o
 
 **III. The Opportunity of AI**** **
 
-Hugeness and strangeness are interesting questions. But whether and how one can make money with AI may be even more interesting. So how big is the AI opportunity? 
+Hugeness and strangeness are interesting questions. But whether and how one can make money with AI may be even more interesting. So how big is the AI opportunity?
 
 **A. Is It Too Early for AI?**
 
@@ -125,7 +107,7 @@ The closest thing to AI that was discussed was whether Moore’s law would conti
 
 **C. (Hidden) Limits**
 
-One way to compare biotech and AI is to think about whether there are serious—and maybe even hidden—limits in each one. The biotech revolution narrative is that we’re going to figure out how to reverse and cure all sorts of maladies, so if you just live to _x_, you can stay alive forever. It’s a good narrative. But it’s also plausible that there are invisible barriers lurking beneath the surface. It’s possible, for example, that various systems in the human body act against one another to reach equilibrium. Telomerase helps cells split unbounded. This is important because you stop growing and start to age when cells don’t split. So one line of thinking is that you should drink red wine and do whatever else you can to keep telomerase going. 
+One way to compare biotech and AI is to think about whether there are serious—and maybe even hidden—limits in each one. The biotech revolution narrative is that we’re going to figure out how to reverse and cure all sorts of maladies, so if you just live to _x_, you can stay alive forever. It’s a good narrative. But it’s also plausible that there are invisible barriers lurking beneath the surface. It’s possible, for example, that various systems in the human body act against one another to reach equilibrium. Telomerase helps cells split unbounded. This is important because you stop growing and start to age when cells don’t split. So one line of thinking is that you should drink red wine and do whatever else you can to keep telomerase going.
 
 ![][26]
 
@@ -205,9 +187,6 @@ Prior Knowledge is taking a different approach to building AI. Their goal is les
    [39]: http://media.tumblr.com/tumblr_m552cfqtwB1qbb0b4.png
    [40]: http://box.com/shared/static/678a92778a1ff3db00c3.png
 
-  
-><span>
-
 ![][41]
 
    [41]: http://media.tumblr.com/tumblr_m552eaKveD1qbb0b4.png
@@ -247,7 +226,6 @@ Intelligence augmentation works because it focuses on _conceptual understanding_
 **Peter Thiel:**  AI is very different from most Silicon Valley companies doing web or mobile apps. Since engineers seem to gravitate toward those kind of startups, how do you go about recruiting?
 
 **Scott Brown:** We ask people what they care about. Most people want to make an impact. They may not know what the best way to do it is, but they want to do it. So we point out that it’s hard to do something more important than building strong AI.  Then, if they’re pretty interested, we ask them how they conceive of strong AI. What incremental test would something have to pass in order to bea stepping stone towards AI? They come up with a few tests. And then we compare their standards to our roadmap and what we’ve already completed. From there, it becomes very clear that Vicarious is where you should be if you’re serious about building intelligent machines.
-
  
 
 **Question from the audience:** Even if you succeed, what happens after you develop AI? What’s your protection from competition?
@@ -284,17 +262,11 @@ More seriously, we do know that computational complexity bounds what AI can do. 
 
 **Bob McGrew:** We view the dangers of technology a little differently at Palantir, since we’re doing intelligence augmentation around sensitive data, not trying to build strong AI. Certainly computers can be dangerous even if they’re not full-blown artificially intelligent. So we work with civil liberty advocates and privacy lawyers to help us build in safeguards. It’s very important to find the right balances.
 
-  
-><span>
-
 **Question from the audience: **Do we actually know enough about the brain to emulate it?
 
 **Eric Jonas:** We understand surprisingly little about the brain. We know about how people solve problems. Humans are very good at intuiting patterns from small amount of data. Sometimes the process seems irrational, but it may actually be quite rational. But we don’t know much about the nuts and bolts of neural systems. We know that various functions are happening, just not how they work. So people take different approaches. We take a different approach, but maybe what we know is indeed enough to pursue an emulation strategy. That’s one coin to flip.
 
 **Scott Brown:** Like I said earlier, we think emulation is the wrong approach. The Wright brothers didn’t need detailed models of bird physiology to build the airplane. Instead, we ask: what statistical irregularities would evolution have taken advantage of in designing the brain? If you look at me, you’ll notice that the pixels that make up my body are not moving at random over your visual field. They tend to stay together over time. There’s also a hierarchy, where when I move my face, my eyes and nose move with it. Seeing this spatial and temporal hierarchy to sensory data provides a good hint about what computations we should expect the brain to be doing. And lo and behold, when you look at the brain, you see a spatial and temporal hierarchy that mirrors the data of the world. Putting these ideas together in a rigorous mathematical way and testing how it applies to real-world data is how we’re trying to build AI. So the neurophysiology is very helpful, but in a general sense.
-
-**  
-><span>**
 
 **Question from the audience: **How much of a good vision system will actually translate over to language, hearing, etc.? If it were so easy to solve one vertical and just apply it to others, wouldn’t it have been done by now? Is there reason to think there’s low overhead in other verticals?
 
@@ -318,14 +290,10 @@ More seriously, we do know that computational complexity bounds what AI can do. 
 
 **Bob McGrew:** In this sense, Crowdflower is Palantir’s dark twin; they’re focusing on how to use _humans_ to make _computers_ better.
 
- 
-
 **Question from the audience: **What are the principles that Palantir thinks about when building its software?
 
 **Bob McGrew:** There is no one big idea. We have several different verticals. In each, we look carefully at what analysts need to do. Instead of trying to replace the analyst, we ask what it is that they aren’t very good at. How could software supplement what they are doing? Typically, that involves building software that processes lots of data, identifies and remembers patterns, etc.
-
   
-
 **Question from the audience: **How do balance training your systems vs. making them full-featured at the outset?  Babies understand facial expressions really well, but no baby can understand calculus.
 
 **Scott Brown:** This is exactly the sort of distinction we use to help us decide what knowledge should be encoded in our algorithms and what should be learned. If we can’t justify a particular addition in terms of what could be plausible for real humans, we don’t add it.
@@ -344,7 +312,6 @@ More seriously, we do know that computational complexity bounds what AI can do. 
 
    [44]: https://dev.priorknowledge.com/developers
 
- 
 
 **Question from the audience: **Do you focus more on the big picture goal or on targeted milestones? 
 
@@ -360,18 +327,32 @@ And then there’s the probably apocryphal story about Columbus on the voyage to
 
 **Eric Jonas: **Which pretty much makes North America the biggest pivot ever.
 
-* * *
+---
 
-[![Creative Commons License][45]][46]
+**[Peter Thiel's CS183: Startup - Class 17 - Deep Thought][7]**
 
-   [45]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
-   [46]: http://creativecommons.org/licenses/by-nc-nd/3.0/
+   [7]: http://blakemasters.tumblr.com/post/24464587112/peter-thiels-cs183-startup-class-17-deep-thought
 
-Note: Prior Knowledge has a good [blog post][47] about (Eric's visit to) this class. 
+_He is an essay version of class notes from Class 17 of CS183: Startup. Errors and omissions are mine._
 
-   [47]: http://blog.priorknowledge.com/blog/our-talk-at-startup-school/
+Three guests joined the class for a conversation after Peter’s remarks:
 
-Originally posted by [Blake Masters][48]. You can find the [set of class notes on his site][49]
+1. D. Scott Brown, co-founder of [Vicarious][8]
+2. Eric Jonas, CEO of [Prior Knowledge][9]
+3. Bob McGrew, Director of Engineering at [Palantir][10]
 
-   [48]:https://twitter.com/bgmasters
-   [49]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.
+  [8]: http://vicariousinc.com/ (Vicarious)
+  [9]: https://www.priorknowledge.com/ (Prior Knowledge)
+  [10]: http://www.palantir.com (Palantir)
+
+_Credit for good stuff goes to them and Peter. I have tried to be accurate. But note that this is not a transcript of the conversation._
+
+[![Creative Commons License][59]][50]
+
+   [59]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
+   [50]: http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+Originally posted by [Blake Masters][61] and the original [set of class notes available on Tumblr site.][62]
+
+   [61]:https://twitter.com/bgmasters
+   [62]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.

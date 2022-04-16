@@ -1,10 +1,4 @@
-### [Peter Thiel's CS183: Startup - Class 9 Notes Essay][7]
-
-   [7]: http://blakemasters.tumblr.com/post/22405055017/peter-thiels-cs183-startup-class-9-notes-essay
-
-Here is an essay version of my class notes from Class 9 of CS183: Startup. Errors and omissions are my own. Credit for good stuff is Peter’s entirely. 
-
-**_Class 9 Notes Essay—If You Build It, Will They Come?_**
+# If You Build It, Will They Come?
 
  **I. Definitions** 
 
@@ -113,7 +107,7 @@ Knewton is a Founders Fund portfolio company that develops adaptive learning tec
 
 **B. Somewhat Smaller Sales**
 
-As we move from big, complex sales to sales, the basic difference is that the sales process involves a ticket cost of $10k-100k per deal. Things are more cookie cutter. You have to figure out how to build a scalable process and build out a sales team to get a large number of people to buy the product. David Sacks was a product guy at PayPal and went on to found Yammer. At PayPal, he was vehemently anti-sales and anti-BD. His classic lines were: “Networking is _not working!_” and “People doing networking are not _working!_” But at Yammer, Sacks found that he had to embrace sales and build out a scalable distribution system. Things are different, he says, because now the sales people report to him. Because of its focus on distribution, Yammer was able to hire away one of the top people from SalesForce to run its sales team. 
+As we move from big, complex sales to sales, the basic difference is that the sales process involves a ticket cost of $10k-100k per deal. Things are more cookie cutter. You have to figure out how to build a scalable process and build out a sales team to get a large number of people to buy the product. David Sacks was a product guy at PayPal and went on to found Yammer. At PayPal, he was vehemently anti-sales and anti-BD. His classic lines were: “Networking is _not working!_” and “People doing networking are not _working!_” But at Yammer, Sacks found that he had to embrace sales and build out a scalable distribution system. Things are different, he says, because now the sales people report to him. Because of its focus on distribution, Yammer was able to hire away one of the top people from SalesForce to run its sales team.
 
 ZocDoc is a doctor referral service. It’s kind of a classic internet business; they are trying to get doctors’ offices to sign up for the service at a cost of $250/month. Growth is intensively sales-driven, and ZocDoc does market-by-market launches. There is even a whole internal team of recruiters who do nothing else but try to recruit new salespeople. Toward the lower end of things—and $250 per month per customer is getting there—things get more transactional and marginal. 
 
@@ -137,7 +131,7 @@ In most ways, Priceline.com represents certain depressing decline of our society
 
 Advertising’s historical opaqueness is probably the core of why Google is so valuable; Google was the first company that enabled people to figure out whether advertising actually worked. You can look at all sort of metrics—CPM, CTR, CPC, RPC—and do straightforward calculations to determine your ROI. This knowledge is important because people are willing to pay a lot for advertising if it actually works. But in the pre-internet magazine age before Google, ad people never really had a clue about how they were doing.
 
-Zynga has excelled at building on top of Google’s ad work. Everyone knows that Zynga experienced great viral growth as its games caught on. Less known is that they spent a lot of money on targeted advertising. That allowed them to monetize users much more aggressively than people thought possible. And then Zynga used that revenue to buy more targeted ads. Other gaming companies tried to do just viral growth—build games that had some social element at their core. But Zynga went beyond that distribution strategy and got a leg up by driving rapid growth with aggressive marketing. 
+Zynga has excelled at building on top of Google’s ad work. Everyone knows that Zynga experienced great viral growth as its games caught on. Less known is that they spent a lot of money on targeted advertising. That allowed them to monetize users much more aggressively than people thought possible. And then Zynga used that revenue to buy more targeted ads. Other gaming companies tried to do just viral growth—build games that had some social element at their core. But Zynga went beyond that distribution strategy and got a leg up by driving rapid growth with aggressive marketing.
 
 The standard bias on the internet is that advertising does not work. But that’s an interesting double standard. There are an awful lot of websites whose businesses model is ad sales. And then they turn around and say that they don’t actually believe ads are good way of getting customers. The Zynga experience shows that creatively rethinking the standard narrative can be quite lucrative. There is a lot of room for creativity in distribution strategy. 
 
@@ -197,13 +191,20 @@ Say your company could reasonably be valued at $300m. Valuation is as much art a
 
 A similar thing exists with employee hiring. It’s trickier to know what to do there. But traditional recruiters do not take the distribution problem seriously enough. They assume that people are always rational, and that by giving them information, people will make good decisions. That’s not true at all. And since the best people tend to make the best companies, the founders or one or two key senior people at any multimillion-dollar company should probably spend between 25% and 33% of their time identifying and attracting talent.
 
-[![Creative Commons License][10]][11]
+---
 
-   [10]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
-   [11]: http://creativecommons.org/licenses/by-nc-nd/3.0/
+**[Peter Thiel's CS183: Startup - Class 9 Notes Essay][7]**
 
-Originally posted by [Blake Masters][12]. You can find the [set of class notes on his site][13]
+   [7]: http://blakemasters.tumblr.com/post/22405055017/peter-thiels-cs183-startup-class-9-notes-essay
 
-   [12]:https://twitter.com/bgmasters
-   [13]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.
+_Here is an essay version of my class notes from Class 9 of CS183: Startup. Errors and omissions are my own. Credit for good stuff is Peter’s entirely._
 
+[![Creative Commons License][13]][10]
+
+   [13]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
+   [10]: http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+Originally posted by [Blake Masters][11] and the original [set of class notes available on Tumblr site.][11]
+
+   [11]:https://twitter.com/bgmasters
+   [12]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.

@@ -1,10 +1,4 @@
-### [Peter Thiel's CS183: Startup - Class 11 Notes Essay][7]
-
-   [7]: http://blakemasters.tumblr.com/post/22866240816/peter-thiels-cs183-startup-class-11-notes-essay
-
-Here is an essay version of my class notes from Class 11 of CS183: Startup. Errors and omissions are mine. Credit for good stuff is Peter’s.
-
-_Class 11 Notes Essay—Secrets_
+# Secrets
 
 **I.  Secrets**
 
@@ -44,7 +38,7 @@ The common view is that there are no secrets left. It’s a plausible view. If i
 
 The extreme representative of the conventional view is Ted Kaczynski, more infamously known as the Unabomber. He was a child prodigy. IQ of 167. A top student at Harvard. PhD in math from Michigan. Professor of math at UC Berkeley. But then he started a solo bombing campaign after becoming disenchanted with science and technology. He killed 3 people and injured 23 more. The victims included computer store owners, technical grad students, geneticists, etc. Finally he was found and arrested in 1996.
 
-But in late 1995 the FBI didn’t really have a clue who or where the Unabomber was. Kaczynski had written a manifesto and anonymously mailed it to the press. The government gave the go-ahead to print it, hoping for a break in the case. That ended up working, as Kaczynski’s brother recognized the writing and turned him in. 
+But in late 1995 the FBI didn’t really have a clue who or where the Unabomber was. Kaczynski had written a manifesto and anonymously mailed it to the press. The government gave the go-ahead to print it, hoping for a break in the case. That ended up working, as Kaczynski’s brother recognized the writing and turned him in.
 
 But more interesting than how Kaczynski was caught was the manifesto itself. It was basically a long, crazy anti-tech diatribe. The core of the argument was that you could divide human goals into three groups:
 
@@ -167,11 +161,11 @@ Alternatively, you could tell your secret to everybody. You may be able to convi
 What kind of secret you have may influence your decision to share or hide. If it’s an intellectual secret, there’s probably little downside to just sharing it widely. The same goes for natural secrets, though perhaps to a lesser extent. But secrets about people are entirely different. Sharing them can be quite costly. At one point Faust tells Wagner:
 
 > The few who knew what might be learned,
-> 
+>
 > Foolish enough to put their whole heart on show,
-> 
+>
 > And reveal their feelings to the crowd below,
-> 
+>
 > Mankind has always crucified and burned.
 
 Human and political secrets tend to be quite dangerous. Julian Assange would probably agree.
@@ -203,48 +197,51 @@ This doesn’t mean you should seek out and join obscure companies. Esoteric tru
 We end with Tolkien:
 
 > The Road goes ever on and on
-> 
+>
 > Out from the door where it began.
-> 
+>
 > Now far ahead the Road has gone,
-> 
+>
 > Let others follow it who can!
-> 
+>
 > Let them a journey new begin,
-> 
+>
 > But I at last with weary feet
-> 
+>
 > Will turn towards the lighted inn,
-> 
+>
 > My evening-rest and sleep to meet.
 
-You go on a long journey. The designated road never really ends. But later on in the LOTR, there’s an alternative version: 
+You go on a long journey. The designated road never really ends. But later on in the LOTR, there’s an alternative version:
 
 > Still round the corner there may wait
-> 
+>
 > A new road or a secret gate,
-> 
+>
 > And though we pass them by today,
-> 
+>
 > Tomorrow we may come this way
-> 
+>
 > And take the hidden paths that run
-> 
+>
 > Towards the Moon or to the Sun.
 
 The road isn’t infinite. It’s possible that, just around the corner, there’s a secret gate leading to a secret road. Take the hidden paths.
 
-  
-><span>
+---
 
-* * *
+**[Peter Thiel's CS183: Startup - Class 11 Notes Essay][7]**
+
+   [7]: http://blakemasters.tumblr.com/post/22866240816/peter-thiels-cs183-startup-class-11-notes-essay
+
+_Here is an essay version of my class notes from Class 11 of CS183: Startup. Errors and omissions are mine. Credit for good stuff is Peter’s._
 
 [![Creative Commons License][9]][10]
 
    [9]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
    [10]: http://creativecommons.org/licenses/by-nc-nd/3.0/
 
-Originally posted by [Blake Masters][11]. You can find the [set of class notes on his site][12]
+Originally posted by [Blake Masters][11] and the original [set of class notes available on Tumblr site.][12]
 
    [11]:https://twitter.com/bgmasters
    [12]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.

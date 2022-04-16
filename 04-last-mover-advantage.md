@@ -1,10 +1,4 @@
-### [Peter Thiel's CS183: Startup - Class 4 Notes Essay][7]
-
-   [7]: http://blakemasters.tumblr.com/post/21169325300/peter-thiels-cs183-startup-class-4-notes-essay
-
-Here is an essay version of my class notes from Class 4 of CS183: Startup. Errors and omissions are my own. Credit for good stuff is Peter’s entirely. 
-
-**_CS183: Startup—Notes Essay—April 11__—The Last Mover Advantage_**
+# The Last Mover Advantage
 
 **I. Escaping Competition**
 
@@ -166,12 +160,20 @@ The right answer has to be that you’re creating some sort of monopoly business
 
 This raises the question that we’ll discuss next week: kinds of people do you want to take with you as you head off into the frontier?
 
+---
+
+**[Peter Thiel's CS183: Startup - Class 4 Notes Essay][7]**
+
+   [7]: http://blakemasters.tumblr.com/post/21169325300/peter-thiels-cs183-startup-class-4-notes-essay
+
+_Here is an essay version of my class notes from Class 4 of CS183: Startup. Errors and omissions are my own. Credit for good stuff is Peter’s entirely._
+
 [![Creative Commons License][9]][10]
 
    [9]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
    [10]: http://creativecommons.org/licenses/by-nc-nd/3.0/
 
-Originally posted by [Blake Masters][11]. You can find the [set of class notes on his site][12]
+Originally posted by [Blake Masters][10] and the original [set of class notes available on Tumblr site.][11]
 
    [11]:https://twitter.com/bgmasters
    [12]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.

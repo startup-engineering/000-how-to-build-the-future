@@ -1,14 +1,4 @@
-### [Peter Thiel's CS183: Startup - Class 18 Notes Essay][7]
-
-   [7]: http://blakemasters.tumblr.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes-essay
-
-Here is an essay version of my class notes. Errors and omissions are mine. Credit for good stuff is Peter’s. Thanks to [Joel Cazares][8] for helping proof this.
-
-   [8]: http://www.joelcazares.com (Joel Cazares)
-
-_![][9]_
-
-   [9]: http://media.tumblr.com/tumblr_m582rmnKkP1qbb0b4.png
+# Founder As Victim, Founder As God
 
 **I. Traits of the Founder** 
 
@@ -154,7 +144,7 @@ Achilles is another mythological hero who was active at the extremes. He was inc
    [35]: http://media.tumblr.com/tumblr_m5836jPbSh1qbb0b4.png
    [36]: https://blakemasters.box.com/shared/static/65bb0dff8a8881156ba5.png
 
-Perhaps the most classic founding of all is the founding of Rome. Romulus and Remus were disadvantaged, common orphans who were raised by wolves. They were outsiders. But then they became founders and lawmakers. Romulus killed his brother and became a lawbreaker and king. If there is a hierarchy to it—if killing your brother is worse than killing a random person and killing your twin brother is even worse than that—then Romulus was an unusually bad criminal.  
+Perhaps the most classic founding of all is the founding of Rome. Romulus and Remus were disadvantaged, common orphans who were raised by wolves. They were outsiders. But then they became founders and lawmakers. Romulus killed his brother and became a lawbreaker and king. If there is a hierarchy to it—if killing your brother is worse than killing a random person and killing your twin brother is even worse than that—then Romulus was an unusually bad criminal. 
 
 Legend has it that what prompted the murder is Remus’ leaping over the imaginary boundary line that Romulus had established as the edge of Rome. The rule was codified with blood: anyone who jumps over the walls of Rome will be destroyed. Does this make Romulus a criminal outlaw? Or does it make him the king who defined Rome? It depends. Maybe he was both.
 
@@ -272,7 +262,7 @@ Another modern version has to do with celebrities, and resurrects the monarchica
 
    [52]: http://media.tumblr.com/tumblr_m583haaDkc1qbb0b4.png
 
-Then, at some point, things go wrong. The anointed are put on pedestals only to be torn down. Elvis self-destructed in the ‘70s. Michael Jackson obviously went downhill. The picture below depicts Brittney Spears at height of the paparazzi insanity. A few years ago, the paparazzi industry was a $400 million/year industry. Brittney Spears drove $100 million of that. There were between 1,000 and 2,000 people who made their living doing nothing but chasing her around and taking pictures of her. What went wrong? Was Brittney naturally crazy? Did she become crazy after having been isolated as a child superstar? Maybe the crowd got to her. Or maybe she intentionally acted in weird ways for the publicity. 
+Then, at some point, things go wrong. The anointed are put on pedestals only to be torn down. Elvis self-destructed in the ‘70s. Michael Jackson obviously went downhill. The picture below depicts Brittney Spears at height of the paparazzi insanity. A few years ago, the paparazzi industry was a $400 million/year industry. Brittney Spears drove $100 million of that. There were between 1,000 and 2,000 people who made their living doing nothing but chasing her around and taking pictures of her. What went wrong? Was Brittney naturally crazy? Did she become crazy after having been isolated as a child superstar? Maybe the crowd got to her. Or maybe she intentionally acted in weird ways for the publicity.
 
 ![][53]
 
@@ -362,7 +352,7 @@ Hughes’ fall from grace began after the’46 crash, when he became addicted to
 
    [64]: http://media.tumblr.com/tumblr_m583ncbrsE1qbb0b4.png
 
-And then there’s the Steve Jobs version. You could probably tell a few different versions of the Jobs version. Let’s focus on the one from the ‘70s and ‘80s. He had all the classic extreme outsider and extreme insider traits. He dropped out of college. He was eccentric and had all these crazy diets. He started out phreaking phones with Steve Wozniak. He took LSD. 
+And then there’s the Steve Jobs version. You could probably tell a few different versions of the Jobs version. Let’s focus on the one from the ‘70s and ‘80s. He had all the classic extreme outsider and extreme insider traits. He dropped out of college. He was eccentric and had all these crazy diets. He started out phreaking phones with Steve Wozniak. He took LSD.
 
 ![][65]
 
@@ -448,7 +438,7 @@ If you want to be a founder and stay a founder, can you extend the founding peri
 
 This probably requires a healthy amount of paranoia. You might conceive of every board meeting as a trial. At best, the board is jury (though probably not of your peers). At worst, it is a mob and is looking to make you the sacrificial victim. Your job as founder is to survive the trial. You must make sure that you do not get executed. The boardroom is not the only place where things can go wrong, of course. But it is typically where things go wrong internally, and most fatal wounds come from internal, not external conflict.
 
-Even something as seemingly innocuous as holding the title of CEO may actually be quite dangerous. Maybe you can figure out ways to minimize it. Augustus never said he was king. It was dangerous to be a king after Brutus killed Caesar.  So Augustus was just the “first among equals.” Whether that equality was anything more than pure fiction, of course, is very questionable. 
+Even something as seemingly innocuous as holding the title of CEO may actually be quite dangerous. Maybe you can figure out ways to minimize it. Augustus never said he was king. It was dangerous to be a king after Brutus killed Caesar.  So Augustus was just the “first among equals.” Whether that equality was anything more than pure fiction, of course, is very questionable.
 
 In October of 2000, things were pretty crazy at PayPal. The burn rate was $10 million/month. There were about 4.5 months of runway left. When I returned as CEO, it wasn’t all of a sudden. I was the Chairman and came back as the interim CEO. We went through a 6-7 month process of trying to find a permanent one. The one decent candidate that we found sort of didn’t work out. Things were going well, so the board agreed to have me be CEO. But the company was about to go public, so the board insisted that there be a Chief Operating Officer (COO) too. COO, of course, is code for the #1 replacement candidate for CEO—it’s like the Vice President in U.S. politics, only more adversarial. I was able to convince the board to make David Sacks COO, which was probably a good, safe move since David was perceived to be crazier than I was. Thinking carefully about these things can lead to powerful insurance policies against getting deposed or executed at trials board meetings. 
 
@@ -480,20 +470,26 @@ Resurrections are possible. But you can only be resurrected after you die. Found
 
 The usual narrative is that society should be organized to cater to and reward the people who play by the rules. Things should be as easy as possible for them. But perhaps we should focus more on the people who _don’t_ play by the rules. Maybe they are, in some key way, the most important. Maybe we should let them off the hook. 
 
-* * *
-
-[![Creative Commons License][81]][82]
-
-   [81]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
-   [82]: http://creativecommons.org/licenses/by-nc-nd/3.0/
-
 Many readers will recognize the influence of René Girard in this material. To learn more about Girard's thinking and mimetic theory, visit [[www.imitatio.org][83]][83].
 
    [83]: http://www.imitatio.org
 
+---
 
-Originally posted by [Blake Masters][84]. You can find the [set of class notes on his site][85]
+**[Peter Thiel's CS183: Startup - Class 18 Notes Essay][7]**
 
-   [84]:https://twitter.com/bgmasters
-   [85]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.
+   [7]: http://blakemasters.tumblr.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes-essay
 
+_Here is an essay version of my class notes. Errors and omissions are mine. Credit for good stuff is Peter’s. Thanks to [Joel Cazares][8] for helping proof this._
+
+   [8]: http://www.joelcazares.com (Joel Cazares)
+
+[![Creative Commons License][99]][100]
+
+  [99]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
+  [100]: http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+Originally posted by [Blake Masters][111] and the original [set of class notes available on Tumblr site.][122]
+
+  [111]:https://twitter.com/bgmasters
+  [122]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.

@@ -1,13 +1,6 @@
-### [Peter Thiel's CS183: Startup - Class 3 Notes Essay][7]
+# Value Systems
 
-   [7]: http://blakemasters.tumblr.com/post/20955341708/peter-thiels-cs183-startup-class-3-notes-essay
-
-Here is an essay version of my class notes from Class 3 of CS183: Startup. Errors and omissions are my own. Credit for good stuff is Peter’s entirely.  Please note that I actually missed this class (I was on my honeymoon!). Thanks to [@erikpavia][8] and [@danrthompson][9] for sending me their notes to work from.
-
-   [8]: https://twitter.com/#!/erikpavia (Erik Pavia on twitter)
-   [9]: https://twitter.com/#!/danrthompson (Dan Thompson on twitter)
-
-**CS183: Startup—Notes Essay—Value Systems**
+**Overview**
 
  The history of the ‘90s was in many ways the history of widespread confusion about the question of value. Valuations were psychosocial; value was driven by what people said it was. To avoid herd-like confusion of decades past, we need to try and figure out whether it’s possible to determine businesses’ objective value and, if it is, how to do it.
 
@@ -129,12 +122,23 @@ The problem is that when the ocean is really big, it’s hard to know exactly wh
 
  Where does venture capital fit in? VCs tend not to have a very large pool of business. Rather, they rely on very discreet networks of people that they’ve become affiliated with. That is, they have access to a unique network of entrepreneurs; the network is the core value proposition, and is driven by relationships. So VC is anti-commoditized; it is personal, and often idiosyncratic. It thus has a lot in common with great businesses. The PayPal network, as it’s been called, is a set of friendships built over the course of a decade. It has become a sort of franchise. But this isn’t unique; that kind of dynamic arguably characterizes all great tech companies, i.e. last mover monopolies. Last movers build non-commoditized businesses. They are relationship-driven. They create value. They last. And they make money.
 
+---
+
+**[Peter Thiel's CS183: Startup - Class 3 Notes Essay][7]**
+
+   [7]: http://blakemasters.tumblr.com/post/20955341708/peter-thiels-cs183-startup-class-3-notes-essay
+
+_Here is an essay version of my class notes from Class 3 of CS183: Startup. Errors and omissions are my own. Credit for good stuff is Peter’s entirely.  Please note that I actually missed this class (I was on my honeymoon!). Thanks to [@erikpavia][8] and [@danrthompson][9] for sending me their notes to work from._
+
+   [8]: https://twitter.com/#!/erikpavia (Erik Pavia on twitter)
+   [9]: https://twitter.com/#!/danrthompson (Dan Thompson on twitter)
+
 [![Creative Commons License][12]][13]
 
-   [12]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
-   [13]: http://creativecommons.org/licenses/by-nc-nd/3.0/
+[12]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
+[13]: http://creativecommons.org/licenses/by-nc-nd/3.0/
 
-Originally posted by [Blake Masters][14]. You can find the [set of class notes on his site][15]
+Originally posted by [Blake Masters][10] and the original [set of class notes available on Tumblr site.][11]
 
-   [14]:https://twitter.com/bgmasters
-   [15]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.
+[10]:https://twitter.com/bgmasters
+[11]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.

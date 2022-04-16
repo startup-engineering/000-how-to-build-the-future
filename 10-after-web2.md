@@ -1,12 +1,4 @@
-### [Peter Thiel's CS183: Startup - Class 10 Notes Essay][7]
-
-   [7]: http://blakemasters.tumblr.com/post/22660214207/peter-thiels-cs183-startup-class-10-notes-essay
-
-Here is an essay version of my class notes from Class 10 of CS183: Startup. Errors and omissions are mine.
-
-Marc Andreessen, co-founder and general partner of the venture capital firm Andreessen Horowitz, joined this class as a guest speaker. Credit for good stuff goes to him and Peter. I have tried to be accurate. But note that this is not a transcript of the conversation.
-
-_Class 10 Notes Essay—After Web 2.0_ 
+# After Web 2.0
 
 **I.  Hello World**
 
@@ -124,7 +116,7 @@ It’s still a high-pressure move. They are running the gauntlet. The jury is st
 
 **Marc Andreessen:**  Probably retail. We’re seeing and will continue to get e-commerce 2.0, that is, e-commerce that’s not just for nerds. The 1.0 was search driven. You go to Amazon or eBay, search for a thing, and buy it. That works great if you’re shopping for particular stuff. The 2.0 model involves a deeper understanding of consumer behavior. These are companies like Warby Parker and Airbnb. It’s happening vertical by vertical. And it’s likely to keep happening throughout the retail world because retail is really bad to start with. There are very high fixed costs of having stores and inventory. Margins are very small to begin with. If you take away just 5 or 10%, things collapse. Best Buy, for example, has two problems. First, people can get pretty much everything online. Second, even if you do want to shop brick and mortar, software is eating up what you can buy at Best Buy in the first place.  
 
-**Peter Thiel:**  An online pet food company is the paradigm example. 
+**Peter Thiel:**  An online pet food company is the paradigm example.
 
 **Marc Andreessen:**  And that’s not such a bad idea anymore! Diapers.com was bought by Amazon for $450m. Golfballs.com turns out to be a pretty good business. Even Webvan is coming back! The grocery delivery company failed miserably back in the ‘90s. But now, city by city, it’s back, trying to figure out crowdsourced delivery. The market is so much bigger now. There were about 50 million people online in the ‘90s. Today it’s more like 2.5 billion. People have gotten acclimated to e-commerce. The default assumption is that everything is available online now.
 
@@ -150,7 +142,7 @@ But seriously—if you think you can execute on an idea that someone tried 5-10 
 
 **Marc Andreessen:**  We hear it all the time: “We’ll be like Salesforce.com—no sales team required, since the product will sell itself.” This is always puzzling. Salesforce.com has a huge, modern sales force. The tagline is “No software,” not “No sales.” AH is a sucker for people who have sales and marketing figured out.
 
-**Peter Thiel:**  It may also be time to rethink complex sales. People have been scarred from the ‘90s experience, where businesses predicated on complex sales failed. It was very hard to get people to do business development deals in the early 2000s. But doing these deals can be very advantageous. Google did a phenomenal BD deal with Yahoo. People don’t typically recognize how great it was for Google. Google doesn’t’ like to talk about it because it only wants to talk about it’s engineering. Yahoo doesn’t want to talk about it because it’s embarrassing. 
+**Peter Thiel:**  It may also be time to rethink complex sales. People have been scarred from the ‘90s experience, where businesses predicated on complex sales failed. It was very hard to get people to do business development deals in the early 2000s. But doing these deals can be very advantageous. Google did a phenomenal BD deal with Yahoo. People don’t typically recognize how great it was for Google. Google doesn’t’ like to talk about it because it only wants to talk about it’s engineering. Yahoo doesn’t want to talk about it because it’s embarrassing.
 
   
 
@@ -192,7 +184,7 @@ Things like mobile are trickier. Some say that smartphones have tipped. We’re 
 
 **Peter Thiel:**  The big worry with mobile is that any great mobile distribution technique will be disallowed and then copied by Apple and Android. It’s a big market, but it’s far from clear that you can wrest power away from the gatekeepers.
 
-**Marc Andreessen:**  Just recently, Apple blocked any iOS applications from using Dropbox. The rationale was that allowing apps to interact with Dropbox encourages people not to buy stuff through the App Store. That doesn’t seem like a great argument. But it’s like fighting city hall. Even a big important company like Dropbox can get stopped dead in its tracks by Apple. 
+**Marc Andreessen:**  Just recently, Apple blocked any iOS applications from using Dropbox. The rationale was that allowing apps to interact with Dropbox encourages people not to buy stuff through the App Store. That doesn’t seem like a great argument. But it’s like fighting city hall. Even a big important company like Dropbox can get stopped dead in its tracks by Apple.
 
  
 
@@ -204,7 +196,7 @@ Things like mobile are trickier. Some say that smartphones have tipped. We’re 
 
 **Marc Andreessen:**  I’ve never seen a contentious board vote. I’ve seen every other thing go wrong. But never a contentious vote. Problems get dealt with. They either kill the company, or you figure it out in another way.
 
-There is probably too much in the air about optimal legal terms and process. Not enough attention is paid to the people. Startups are like sausage factories. People love eating sausage. But no one wants to watch the sausage get made. Even the seemingly glorious startups only seem that way. They’ve had crisis after crises too. Things go horribly wrong. You fight your way through it. What matters more: what processes you follow? Or who is with you in the bunker? Entrepreneurs don’t think about this enough. They don’t vet their VCs enough. 
+There is probably too much in the air about optimal legal terms and process. Not enough attention is paid to the people. Startups are like sausage factories. People love eating sausage. But no one wants to watch the sausage get made. Even the seemingly glorious startups only seem that way. They’ve had crisis after crises too. Things go horribly wrong. You fight your way through it. What matters more: what processes you follow? Or who is with you in the bunker? Entrepreneurs don’t think about this enough. They don’t vet their VCs enough.
 
  
 
@@ -216,7 +208,7 @@ What’s ideal is to have a founder/CEO who is a product person. Sales operators
 
 **Peter Thiel:**  Are there any exceptions to this? Like Oracle?
 
-**Marc Andreessen:**  No. Larry Ellison is a product guy. Granted, an extremely money-centric product guy. He’s always the CEO. One time he broke his back bodysurfing. He ran the company from the hospital bed. And he’s always had a #2, like Mark Hurd. There’s been a whole series of #2s. But Larry always has a Cheryl. 
+**Marc Andreessen:**  No. Larry Ellison is a product guy. Granted, an extremely money-centric product guy. He’s always the CEO. One time he broke his back bodysurfing. He ran the company from the hospital bed. And he’s always had a #2, like Mark Hurd. There’s been a whole series of #2s. But Larry always has a Cheryl.
 
 Salespeople can be very good at optimizing a company over a 2-4 year period. The AH fake hedge fund trade is: when a sales guy replaces a product guy as CEO, go long 2 years, then short.
 
@@ -264,12 +256,22 @@ Better than thinking about where to go is thinking about what to do. The key que
 
 The skill that you learn at IBM is how to exist at IBM. It’s completely self-referential. It’s the terminal state. People don’t leave.
 
-[![Creative Commons License][10]][11]
+---
 
-   [10]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
-   [11]: http://creativecommons.org/licenses/by-nc-nd/3.0/
+**[Peter Thiel's CS183: Startup - Class 10 Notes Essay][7]**
 
-Originally posted by [Blake Masters][12]. You can find the [set of class notes on his site][13]
+   [7]: http://blakemasters.tumblr.com/post/22660214207/peter-thiels-cs183-startup-class-10-notes-essay
 
-   [12]:https://twitter.com/bgmasters
-   [13]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.
+_Here is an essay version of my class notes from Class 10 of CS183: Startup. Errors and omissions are mine._
+
+_Marc Andreessen, co-founder and general partner of the venture capital firm Andreessen Horowitz, joined this class as a guest speaker. Credit for good stuff goes to him and Peter. I have tried to be accurate. But note that this is not a transcript of the conversation._
+
+[![Creative Commons License][13]][10]
+
+   [13]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
+   [10]: http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+Originally posted by [Blake Masters][11] and the original [set of class notes available on Tumblr site.][12]
+
+   [11]:https://twitter.com/bgmasters
+   [12]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.

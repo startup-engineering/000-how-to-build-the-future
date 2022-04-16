@@ -1,10 +1,4 @@
-### [Peter Thiel's CS183: Startup - Class 2 Notes Essay][7]
-
-   [7]: http://blakemasters.tumblr.com/post/20582845717/peter-thiels-cs183-startup-class-2-notes-essay
-
-Here is an essay version of my class notes from Class 2 of CS183: Startup. Errors and omissions are my own. Credit for good stuff is Peter’s entirely. 
-
-_CS183: Startup—Notes Essay__—Party Like It's 1999?_
+# Party Like It's 1999?
 
 **I.  Late to the Party**
 
@@ -84,7 +78,7 @@ That March was thoroughly crazy. A South Korean firm that really wanted to inves
 
 The transition from 1999 to 2000 was much like Prince predicted it would be in his song “1999” (“Cause they say 2,000 zero zero party over, oops! Out of time! So tonight I'm gonna party like it's 1999!”). Perhaps he was right for the wrong reasons; we shouldn’t make too much of that. But it turned out quite prescient. A rolling wave of collapse struck; marketing-driven e-commerce companies failed in the first half of 2000, and B2B companies failed in the second. The telecoms followed in 2001. If you had to pick what sector of economy was at absolute lowest in March 2000, it might have been be military defense companies. The NASDAQ was soaring. No one believed there would ever be another war. But then things reversed. The military defense industry would rise for most of the next decade.
 
-  
+
 ><span>
 
 **IV.  Hubris and Schadenfreude**
@@ -94,12 +88,12 @@ In the aftermath of 2001 and 2002, enormous amounts of hubris yielded to Shadenf
 PayPal would survive this shift, but it was clear that it was a whole new world. The company broke even in 2001. It was able to solve some tough fraud problems and get a handle on its customer service problems. When it filed for IPO in late September 2001, PayPal became the first company to file after 9/11. This time, some 20 months after the rosy WSJ article, another article came out. It was titled “Earth To Palo Alto.” It began:
 
 > What would you do with a 3-year-old company that has never turned an annual profit, is on track to lose a quarter billion dollars and whose recent SEC filings warn that its services might be used for money laundering and financial fraud?
-> 
+>
 > If you were the managers and venture capitalists behind Palo Alto's PayPal, you'd take it public. And that is what they hope to do in an $80 million offering that will test the limits of investor tolerance and financial market gullibility.
 
 It didn’t get much better. The U.S., it concluded, “needs [PayPal] as much as it does an anthrax epidemic.”
 
-  
+
 ><span>
 
 **V.  Lessons Learned**
@@ -146,12 +140,20 @@ Antibubble type thinking is probably somewhat more true. In other words, it’s 
 
 To understand businesses and startups in 2012, you have to do the _truly_ contrarian thing: you have to think for yourself. The question of what is valuable is a much better question than debating bubble or no bubble. The value question gets better as it gets more specific: is company X valuable? Why? How should we figure that out? Those are the questions we need to ask. Next class, we’ll look at how we might go about thinking about them.
 
+---
+
+**[Peter Thiel's CS183: Startup - Class 2 Notes Essay][7]**
+
+   [7]: http://blakemasters.tumblr.com/post/20582845717/peter-thiels-cs183-startup-class-2-notes-essay
+
+_Here is an essay version of my class notes from Class 2 of CS183: Startup. Errors and omissions are my own. Credit for good stuff is Peter’s entirely._
+
 [![Creative Commons License][8]][9]
 
-   [8]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
-   [9]: http://creativecommons.org/licenses/by-nc-nd/3.0/
+[8]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
+[9]: http://creativecommons.org/licenses/by-nc-nd/3.0/
 
-Originally posted by [Blake Masters][10]. You can find the [set of class notes on his site][11]
+Originally posted by [Blake Masters][10] and the original [set of class notes available on Tumblr site.][11]
 
-   [10]:https://twitter.com/bgmasters
-   [11]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.
+[10]:https://twitter.com/bgmasters
+[11]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.

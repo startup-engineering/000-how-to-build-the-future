@@ -1,12 +1,4 @@
-### [Peter Thiel's CS183: Startup - Class 8 Notes Essay][7]
-
-   [7]: http://blakemasters.tumblr.com/post/22271192791/peter-thiels-cs183-startup-class-8-notes-essay
-
-Here is an essay version of my class notes from Class 8 of CS183: Startup. Errors and omissions are mine.
-
-Bruce Gibney, partner at Founders Fund, gave the lecture these notes are based on. Credit for good stuff goes to him and Founders Fund.
-
-_Class 8 Notes Essay—The Pitch_
+# The Pitch
 
 **I.  Pitching Context & Goals**
 
@@ -187,7 +179,7 @@ Once you close a deal, get a press release out. Quote the VCs. Put them on your 
 
 **Q:** When you’re pitching, should you focus on your initial product or your grand vision?
 
-**A:** Founders Fund likes to start with the big vision. But many people are more narrowly focused and may well want to hear about the product first. 
+**A:** Founders Fund likes to start with the big vision. But many people are more narrowly focused and may well want to hear about the product first.
 
  
 
@@ -203,28 +195,22 @@ Once you close a deal, get a press release out. Quote the VCs. Put them on your 
 
 The truth is that most VCs are not very good at all. The objective verification of this is that the bottom 80% of industry hasn’t made any money in the last 10 years.  The compensation is that the ones that do are really very competent.
 
- 
-
 **Q:**  When do you discuss important terms in the pitch process?
 
 **A:**  You should mention key terms or anything idiosyncratically important early on. If you want to control the enterprise mention that right off the bat. Sometimes it may kill the conversation and everyone can stop wasting time with further discussion.
 
 Most terms don’t matter. Economics and control matter; discuss those soon.  As for the rest, outcomes tend to be very bimodal.  If the outcome is zero, terms don’t matter. If the outcome is huge success, terms don’t really matter either. Only for little-better-than-mediocre-exits do terms matter much, and those outcomes are pretty rare in VC. So don’t waste your time or $80k figuring out some particular term with WSGR.
 
- 
-
 **Q:**  If you could radically alter or eradicate some part of the pitch process, what would it be?
 
 **A:** The worst thing ever is when people who aren’t yet a company pitch you for an investment. VCs are supposed invest in companies, not create and build your company for you. Do not pitch until you’re a company. No one wants to get pitched just an idea or product. Even if VCs loved the product or idea, they literally can’t invest, because there’s nothing to fund. You need a company to wire the money to.
-
- 
 
 **Q:** How important is strategic advice from VC?
 
 **A:** Probably 80% of the value add is capital, and 20% is advising. Superangels are very popular right now. Their pitch is that they can help you build your business. You look at their portfolio and its 150-deep. For the average company, how much time or energy can they actually devote? VCs have fewer portfolio companies, but they have the same constraints. They can add value by providing strategic advice, build syndicates for funding, and explain processes that are familiar to them but new to you. But in terms of the mythical model of the hybrid VC-McKinsey consultant helping you build your business, hand-in-hand, no. That doesn’t happen for most portfolio companies. It’s mathematically impossible. VCs who insist they do that for everyone aren’t being honest.
 
 ----
-  
+
 Predictable things that VCs will want to know:
 
 1. Macro
@@ -237,7 +223,7 @@ Predictable things that VCs will want to know:
     a. What it is
     b. What problem it solves
     c. Why it is superior
-    d. Why it is not likely to be displaced for some time  
+    d. Why it is not likely to be displaced for some time 
 
 3. Team
 
@@ -256,7 +242,7 @@ Predictable things that VCs will want to know:
         1. Sales process
         * Customer acquisition cost
         * Profitability
-        
+
     f. Barriers to entry/exit
 
 5. The Ask
@@ -271,12 +257,24 @@ Predictable things that VCs will want to know:
     b. Why do you want to work with this VC?
     c. What do you want from the VC besides money?
 
+---
+
+**[Peter Thiel's CS183: Startup - Class 8 Notes Essay][7]**
+
+[7]: http://blakemasters.tumblr.com/post/22271192791/peter-thiels-cs183-startup-class-8-notes-essay
+
+_Here is an essay version of my class notes from Class 8 of CS183: Startup. Errors and omissions are mine._
+
+_Bruce Gibney, partner at Founders Fund, gave the lecture these notes are based on. Credit for good stuff goes to him and Founders Fund._
+
 [![Creative Commons License][23]][24]
 
-   [23]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
-   [24]: http://creativecommons.org/licenses/by-nc-nd/3.0/
+[23]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
 
-Originally posted by [Blake Masters][25]. You can find the [set of class notes on his site][26]
+[24]: http://creativecommons.org/licenses/by-nc-nd/3.0/
 
-   [25]:https://twitter.com/bgmasters
-   [26]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.
+
+Originally posted by [Blake Masters][25] and the original [set of class notes available on Tumblr site.][26]
+
+[25]:https://twitter.com/bgmasters
+[26]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.

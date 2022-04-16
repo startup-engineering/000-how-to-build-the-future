@@ -1,10 +1,4 @@
-### [Peter Thiel's CS183: Startup - Class 14 Notes Essay][7]
-
-   [7]: http://blakemasters.tumblr.com/post/23787022006/peter-thiels-cs183-startup-class-14-notes-essay
-
-Here is an essay version of my class notes from Class 14 of CS183: Startup. Errors and omissions are mine. Credit for good stuff is Peter’s.
-
-_Class 14 Notes Essay—Seeing Green_
+# Seeing Green
 
 **I. Thinking About Energy**
 
@@ -126,7 +120,7 @@ Then OPEC overreached. It quadrupled prices, from $3 to $12 per barrel. It quadr
 
 The many crises of the last decade can be interpreted as crises about energy. People might be focusing too much on the financial aspect of the so-called financial crisis of 2007. What if we just hit Hubbart’s peak? Oil goes to $140 per barrel. The only thing to do to contain it is to destroy a lot of economic activity. That happened. Oil came down to $32. But now, a few years later, oil is back up to $100 per barrel. This cynical view is that it’s all a game of musical chairs game. In a determinate pessimistic world, who gets shot next? Southern Europe or China are the likely candidates. In a world of scarcity, there is simply not enough to go around. Crises about money and central banks may not just be about money and central banks. 
 
-Even if you don’t believe in peak oil, oil has always been linked to problems. There was the Exxon Valdez spill in 1989 and the Deepwater Horizon spill in 2010. There are the iconic images of burning oil fields in Kuwait in 1991. There’s much talk about 9/11 somehow being linked to U.S. oil entanglement overseas. 
+Even if you don’t believe in peak oil, oil has always been linked to problems. There was the Exxon Valdez spill in 1989 and the Deepwater Horizon spill in 2010. There are the iconic images of burning oil fields in Kuwait in 1991. There’s much talk about 9/11 somehow being linked to U.S. oil entanglement overseas.
 
 ![][19]
 
@@ -356,14 +350,20 @@ Probably the best place to anchor in thinking about the future of energy is in t
 
 So can we do more with less in cleantech? Quite possibly we can. But we need to think about things in the same way we do in the computer industry. Is the breakthrough thorium? Is it something else? We certainly need a big breakthrough. Only then does it makes sense to work on incrementally improving it. The first step, as usual, is to think big and think boldly about the future.
 
-* * *
+---
 
-[![Creative Commons License][38]][39]
+**[Peter Thiel's CS183: Startup - Class 14 Notes Essay][7]**
 
-   [38]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
-   [39]: http://creativecommons.org/licenses/by-nc-nd/3.0/
+   [7]: http://blakemasters.tumblr.com/post/23787022006/peter-thiels-cs183-startup-class-14-notes-essay
 
-Originally posted by [Blake Masters][40]. You can find the [set of class notes on his site][41]
+_Here is an essay version of my class notes from Class 14 of CS183: Startup. Errors and omissions are mine. Credit for good stuff is Peter's._
 
-   [40]:https://twitter.com/bgmasters
-   [41]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.
+[![Creative Commons License][69]][60]
+
+   [69]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
+   [60]: http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+Originally posted by [Blake Masters][71] and the original [set of class notes available on Tumblr site.][72]
+
+   [71]:https://twitter.com/bgmasters
+   [72]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.

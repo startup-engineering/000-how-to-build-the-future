@@ -1,12 +1,8 @@
-### [Peter Thiel's CS183: Startup - Class 7 Notes Essay][7]
+# Follow the Money
+
+**[Peter Thiel's CS183: Startup - Class 7 Notes Essay][7]**
 
    [7]: http://blakemasters.tumblr.com/post/21869934240/peter-thiels-cs183-startup-class-7-notes-essay
-
-Here is an essay version of my class notes from Class 7 of CS183: Startup. Errors and omissions are mine.
-
-Roelof Botha, partner at Sequoia Capital and former CFO of PayPal, and Paul Graham, partner and co-founder of Y Combinator, joined this class as guest speakers. Credit for good stuff goes to them and Peter. I have tried to be accurate. But note that this is not a transcript of the conversation.
-
-_Class 7 Notes Essay—Follow the Money_
 
 _I.  Venture Capital and You_
 
@@ -76,7 +72,7 @@ _II.  The View from Sand Hill Road_
 
 **Paul Graham:** But investors also have an interest to wait, if they can. Waiting means that you’re able to get more data about a given company. So waiting is only bad for you if founders raise the price while you wait. VCs are looking for startups that are the next Google, or not. They are cool with 2x returns. But more than that they don’t want to lose a Google.
 
-  
+
 ><span>
 
 **Peter Thiel:** How do you avoid being a VC that loses money?
@@ -91,7 +87,7 @@ _II.  The View from Sand Hill Road_
 
 **Roelof Botha:** LinkedIn is exception that proves the rule there. It had 3 revenue streams that are pretty equal. No one else really has that. At least it’s very unusual.
 
-  
+
 ><span>
 
 **Peter Thiel:** Do Y-Combinator companies follow a power law distribution? 
@@ -198,13 +194,13 @@ Just look at you. There’s information contained in your Stanford degree. The s
 
 **Paul Graham:** There is a very steep drop-off. Y Combinator essentially gets the first pick of a very good national and even international applicant pool.
 
-**Peter Thiel:** I won’t come out as pro- or anti- Y Combinator. They do some things well and maybe some other things less well. But I will something anti-_not_-Y Combinator. If you go to incubator that’s not Y Combinator, that is perceived as negative credential. It’s like getting a degree at Berkeley. Okay. It’s not Stanford. You can a complicated story about how you had to do it because your parents had a big mortgage or something. But it’s a hard negative signal to get past. 
+**Peter Thiel:** I won’t come out as pro- or anti- Y Combinator. They do some things well and maybe some other things less well. But I will something anti-_not_-Y Combinator. If you go to incubator that’s not Y Combinator, that is perceived as negative credential. It’s like getting a degree at Berkeley. Okay. It’s not Stanford. You can a complicated story about how you had to do it because your parents had a big mortgage or something. But it’s a hard negative signal to get past.
 
  
 
 **Question from audience:**  Do you back founders or ideas?
 
-**Paul Graham:** Founders. Ideas are just indicative of how the founders can think. We look for relentlessly resourceful people. That combination is key. Relentlessness alone is useful. You can relentlessly just bang your head against the wall. It’s better to be relentless in your search for a door, and then resourcefully walk through it. 
+**Paul Graham:** Founders. Ideas are just indicative of how the founders can think. We look for relentlessly resourceful people. That combination is key. Relentlessness alone is useful. You can relentlessly just bang your head against the wall. It’s better to be relentless in your search for a door, and then resourcefully walk through it.
 
 **Roelof Botha:** It is so rare to find people who can clearly and concisely identify a problem and formulate coherent approach to solve it.
 
@@ -216,7 +212,7 @@ Just look at you. There’s information contained in your Stanford degree. The s
 
 **Peter Thiel:** Isaiah Berlin wrote an essay called “The Hedgehog and the Fox.” It revolved around a line from an ancient Greek poet: foxes know many little things, but hedgehogs know one big thing. People tend to think that foxes are best because they are nimble and have broad knowledge. But in business, it’s better to be a hedgehog if you have to choose between the two. But you should still try and know lots of little things too.
 
-  
+
 ><span>
 
 **Question from audience:**  You mentioned “smart VCs” in your backtesting example. Who are the smart VCs?
@@ -243,7 +239,6 @@ Just look at you. There’s information contained in your Stanford degree. The s
 
 **Roelof Botha:** Sometimes having experience with failed startups can make an entrepreneur even better. If they learn from it, maybe they get inspiration or insight for their next company. There are plenty of examples. But you should not fail for sake of failure, of course.
 
- 
 
 **Question from audience:**  Do you fund teams of 1? 
 
@@ -255,12 +250,18 @@ Just look at you. There’s information contained in your Stanford degree. The s
 
 **Peter Thiel:** Think about co-founders from a power law perspective. Having one means giving up half the company. Having two means giving up 2/3. But if you pick the right people, it’s likely that the outcome will be more than 2x or 3x what it would’ve been without them. So co-founders work pretty well in power law world.
 
+---
+
+_Here is an essay version of my class notes from Class 7 of CS183: Startup. Errors and omissions are mine._
+
+_Roelof Botha, partner at Sequoia Capital and former CFO of PayPal, and Paul Graham, partner and co-founder of Y Combinator, joined this class as guest speakers. Credit for good stuff goes to them and Peter. I have tried to be accurate. But note that this is not a transcript of the conversation._
+
 [![Creative Commons License][9]][10]
 
    [9]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
    [10]: http://creativecommons.org/licenses/by-nc-nd/3.0/
 
-Originally posted by [Blake Masters][11]. You can find the [set of class notes on his site][12]
+Originally posted by [Blake Masters][10] and the original [set of class notes available on Tumblr site.][11]
 
    [11]:https://twitter.com/bgmasters
    [12]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.
