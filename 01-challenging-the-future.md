@@ -1,9 +1,5 @@
 # The Challenge of the Future
 
-**[Peter Thiel's CS183: Startup - Class 1 Notes Essay][7]**
-
- [7]: http://blakemasters.tumblr.com/post/20400301508/cs183class1
-
 **Purpose and Preamble**
 
 We might describe our world as having retail sanity, but wholesale madness. Details are well understood; the big picture remains unclear. A fundamental challenge—in business as in life—is to integrate the micro and macro such that all things make sense.
@@ -123,6 +119,10 @@ These are tough questions. But you can test your answers; if, as so many people 
  Make no mistake; it's a hard question. Knowing what 0 to 1 endeavor is worth pursuing is incredibly rare, unique, and tricky. But the process, if not the result, can also be richly rewarding.
 
  ---
+
+ **[Peter Thiel's CS183: Startup - Class 1 Notes Essay][7]**
+
+  [7]: http://blakemasters.tumblr.com/post/20400301508/cs183class1
 
  _Here is an essay version of my class notes from Class 1 of CS183: Startup. Errors and omissions are my own. Credit for good stuff is Peter's entirely._
 
