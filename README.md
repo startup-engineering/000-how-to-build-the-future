@@ -1,5 +1,5 @@
 # How to build the future
-*Blake Master's notes from Peter Thiel's CS183: Startup*
+*Blake Master's notes from Peter Thiel's Spring 2012 Standford Class, CS183: Startup*
 
 ## Getting started
 This is the starting place for building a startup. Think of these notes as a philosophy of business and startup strategy. In the way you want to read Plato's Republic to understand philosophy, you want to read this to understand startups.
