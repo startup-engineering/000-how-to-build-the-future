@@ -17,22 +17,14 @@ This is the starting place for building a startup. Think of these notes as a phi
 2. [Party like it's 1999](02-party-like-its-1999.md)
 2. [Party like it's 1999](02-party-like-its-1999.md)
 2. [Party like it's 1999](02-party-like-its-1999.md)
-* Challenging the future
-* Challenging the future
-* Challenging the future
-* Challenging the future
-* Challenging the future
-* Challenging the future
-* Challenging the future
-* Challenging the future
-* Challenging the future
-* Challenging the future
-* Challenging the future
-* Challenging the future
-* Challenging the future
-* Challenging the future
-
-
+2. [Party like it's 1999](02-party-like-its-1999.md)
+2. [Party like it's 1999](02-party-like-its-1999.md)
+2. [Party like it's 1999](02-party-like-its-1999.md)
+2. [Party like it's 1999](02-party-like-its-1999.md)
+2. [Party like it's 1999](02-party-like-its-1999.md)
+2. [Party like it's 1999](02-party-like-its-1999.md)
+2. [Party like it's 1999](02-party-like-its-1999.md)
+2. [Party like it's 1999](02-party-like-its-1999.md)
 
 ### Author & Credit
 These notes capture Blake Master's experience sitting in Peter Thiels' CS183 Stanford class in Spring of 2012.
