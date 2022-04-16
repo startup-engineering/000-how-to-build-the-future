@@ -40,7 +40,7 @@ Things are harder when cash flows aren't constant. Here is the math for variable
 
    [11]: http://media.tumblr.com/tumblr_m2cv13P8681qbb0b4.png
 
-So to determine the value of a company, you do the applicable DPV or NPV calculation for the next X (or infinite) years. Generally, you want _g _to be greater than _r_. Otherwise your company isn't growing enough to keep up with the discount rate. Of course, in a growth model, the growth rate must eventually decline. Otherwise the company will approach infinite value over time—not likely. 
+So to determine the value of a company, you do the applicable DPV or NPV calculation for the next X (or infinite) years. Generally, you want _g_ to be greater than _r_. Otherwise your company isn't growing enough to keep up with the discount rate. Of course, in a growth model, the growth rate must eventually decline. Otherwise the company will approach infinite value over time—not likely. 
 
 Valuations for Old Economy firms work differently. In businesses in decline, most of the value is in the near term. Value investors look at cash flows. If a company can maintain present cash flows for 5 or 6 years, it's a good investment. Investors then just hope that those cash flows—and thus the company's value—don't decrease faster than they anticipate.
 
