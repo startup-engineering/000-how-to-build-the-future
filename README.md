@@ -6,8 +6,8 @@ This is the starting place for building a startup. Think of these notes as a phi
 
 ## Outline
 
-* [Challenging the future](01-challenging-the-future.md)
-* Challenging the future
+1. [Challenging the future](01-challenging-the-future.md)
+2. [Party like it's 1999](02-party-like-its-1999.md)
 * Challenging the future
 * Challenging the future
 * Challenging the future
