@@ -26,5 +26,9 @@ This is the starting place for building a startup. Think of these notes as a phi
 2. [Founder As Victim, Founder As God](18-founder-as-victim-founder-as-god.md)
 2. [Stagnation or Singularity](19-stagnation-or-singularity.md)
 
+### Files
+* [Example good deck](files/08-good-deck.pdf)
+* [PDF Edition](files/cs183-startup-stanford-spring-2012.pdf)
+
 ### Author & Credit
 These notes capture Blake Master's experience sitting in Peter Thiels' CS183 Stanford class in Spring of 2012.
