@@ -1,10 +1,8 @@
-### [Peter Thiel's CS183: Startup - Class 1 Notes Essay][7]
+# The Challenge of the Future
+
+**[Peter Thiel's CS183: Startup - Class 1 Notes Essay][7]**
 
  [7]: http://blakemasters.tumblr.com/post/20400301508/cs183class1
-
-Here is an essay version of my class notes from Class 1 of CS183: Startup. Errors and omissions are my own. Credit for good stuff is Peter’s entirely.
-
-_CS183: Startup—Notes Essay—The Challenge of the Future_
 
 **Purpose and Preamble**
 
@@ -12,7 +10,7 @@ We might describe our world as having retail sanity, but wholesale madness. Deta
 
 Humanities majors may well learn a great deal about the world. But they don’t really learn career skills through their studies. Engineering majors, conversely, learn in great technical detail. But they might not learn why, how, or where they should apply their skills in the workforce. The best students, workers, and thinkers will integrate these questions into a cohesive narrative. This course aims to facilitate that process.
 
-**I.The History of Technology**
+**I. The History of Technology**
 
 For most of recent human history—from the invention of the steam engine in the late 17th century through about the late 1960’s or so— technological process has been tremendous, perhaps even relentless. In most prior human societies, people made money by taking it from others. The industrial revolution wrought a paradigm shift in which people make money through trade, not plunder.
 
@@ -22,11 +20,11 @@ The zenith of optimism about the future of technology might have been the 1960�
 
 But with the exception of the computer industry, it wasn’t. Per capita incomes are still rising, but that rate is starkly decelerating. Median wages have been stagnant since 1973. People find themselves in an alarming Alice-in-Wonderland-style scenario in which they must run harder and harder—that is, work longer hours—just to stay in the same place. This deceleration is complex, and wage data alone don’t explain it. But they do support the general sense that the rapid progress of the last 200 years is slowing all too quickly.
 
-**II.The Case For Computer Science**
+**II. The Case For Computer Science**
 
 Computers have been the happy exception to recent tech deceleration. Moore’s/Kryder’s/Wirth’s laws have largely held up, and forecast continued growth. Computer tech, with ever-improving hardware and agile development, is something of a model for other industries. It’s obviously central to the Silicon Valley ecosystem and a key driver of modern technological change. So CS is the logical starting place to recapture the reins of progress.
 
-**III.The Future For Progress**
+**III. The Future For Progress**
 
 **A. Globalization and Tech: Horizontal vs. Vertical Progress**
 
@@ -74,7 +72,7 @@ Fourth is the singularity where technological development yields some AI or inte
 
 People tend to overestimate the likelihood or explanatory power of the convergence and cyclical theories. Accordingly, they probably underestimate the destruction and singularity theories.
 
-**IV.Why Companies?**
+**IV. Why Companies?**
 
 If we want technological development, why look to companies to do it? It’s possible, after all, to imagine a society in which everyone works for the government. Or, conversely, one in which everyone is an independent contractor. Why have some intermediate version consisting of at least two people but less than everyone on the planet?
 
@@ -82,7 +80,7 @@ The answer is straightforward application of the Coase Theorem. Companies exist 
 
 The flipside is that internal coordination costs for independent contractors are zero, but external coordination costs (uniquely contracting with absolutely everybody one deals with) are very high, possibly paralyzingly so. Optimality—firm size—is a matter of finding the right combination.
 
-**V.Why Startups?**
+**V. Why Startups?**
 
 **A. Costs Matter**
 
@@ -124,12 +122,16 @@ These are tough questions. But you can test your answers; if, as so many people 
 
  Make no mistake; it’s a hard question. Knowing what 0 to 1 endeavor is worth pursuing is incredibly rare, unique, and tricky. But the process, if not the result, can also be richly rewarding.
 
+ ---
+
+ _Here is an essay version of my class notes from Class 1 of CS183: Startup. Errors and omissions are my own. Credit for good stuff is Peter’s entirely._
+
 [![Creative Commons License][8]][9]
 
  [8]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
  [9]: http://creativecommons.org/licenses/by-nc-nd/3.0/
 
-Originally posted by [Blake Masters][10]. You can find the [set of class notes on his site][11]
+Originally posted by [Blake Masters][10] and the original [set of class notes available on Tumblr site.][11]
 
  [10]:https://twitter.com/bgmasters
  [11]:http://blakemasters.tumblr.com/peter-thiels-cs183-startup/.
